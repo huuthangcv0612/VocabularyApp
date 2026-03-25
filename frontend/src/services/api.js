@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const API = "http://localhost:5001";
+const API = import.meta.env.VITE_API_URL;
 
 export const getLevels = () => axios.get(`${API}/levels`);
 export const getLektions = (id) => axios.get(`${API}/lektions/${id}`);

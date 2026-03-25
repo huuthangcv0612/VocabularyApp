@@ -205,5 +205,6 @@ app.post("/grammar-check", async (req, res) => {
 process.on("unhandledRejection", (reason) => {
   console.error("Unhandled Rejection:", reason);
 });
+const PORT = process.env.PORT || 3000;
 
-app.listen(3000, () => console.log("Server chạy cổng 3000"));
+app.listen(PORT, () => console.log("Server chạy cổng" + PORT));
