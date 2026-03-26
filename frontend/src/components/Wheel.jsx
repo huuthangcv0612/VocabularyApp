@@ -246,7 +246,8 @@ function Wheel({ words, setView }) {
 
     const frame = (currentTime) => {
       const t = Math.min((currentTime - startTime) / duration, 1);
-      const eased = 1 - Math.pow(1 - t, 3);
+      // Thêm easing nhanh đầu rồi chậm dần (ease-out cubic)
+      const eased = 1 - Math.pow(1 - t, 4);
       const nextRotation = startRotation + (targetRotation - startRotation) * eased;
       setRotation(nextRotation);
 

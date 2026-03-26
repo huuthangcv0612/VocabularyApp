@@ -11,7 +11,11 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: linear-gradient(145deg, #f9f8ff, #ffffff);
+  background-image: url('/wave-back.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-color: #e8f4f8;
   position: relative;
 }
 
@@ -100,27 +104,19 @@
 .wheel-pointer {
   position: absolute;
   top: 50%;
-  right: -24px;
+  right: -10px;
   transform: translateY(-50%);
   width: 0;
   height: 0;
   border-top: 12px solid transparent;
   border-bottom: 12px solid transparent;
-  border-right: 18px solid #ff6b6b;
+  border-right: 20px solid #ff4757;
   z-index: 20;
-  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.35);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.3));
 }
 
 .wheel-pointer::before {
-  content: '';
-  position: absolute;
-  left: -20px;
-  top: -8px;
-  width: 16px;
-  height: 16px;
-  border-radius: 50%;
-  background: #fff;
-  box-shadow: 0 0 0 3px #bfdbfe;
+  content: none;
 }
 .wheel-canvas {
   width: 660px;

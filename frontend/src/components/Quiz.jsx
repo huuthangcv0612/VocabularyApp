@@ -16,9 +16,39 @@ function Quiz({ words, setView }) {
 
   const word = shuffledWords[index];
 
+  const normalize = (text) =>
+    text
+      .toLowerCase()
+      .trim()
+      .replace(/\s+/g, " ")
+      .replace(/["'”“’‘]/g, "")
+      .replace(/\s*[,\/]+\s*/g, ",");
+
+  const getAcceptedAnswers = (meaning) => {
+    if (!meaning) return [];
+    return normalize(meaning)
+      .split(",")
+      .map((m) => m.trim())
+      .filter(Boolean);
+  };
+
   const check = () => {
-    if (input.toLowerCase() === word.meaning.toLowerCase()) {
+    const userAnswer = normalize(input);
+    const accepted = getAcceptedAnswers(word.meaning);
+
+    const isExact = accepted.some((ans) => ans === userAnswer);
+    const isPartial = accepted.some((ans) => {
+      return (
+        ans &&
+        userAnswer &&
+        (ans.includes(userAnswer) || userAnswer.includes(ans))
+      );
+    });
+
+    if (isExact) {
       setResult("✅ Đúng");
+    } else if (isPartial) {
+      setResult(`✅ Gần đúng (đáp án dự kiến: ${word.meaning})`);
     } else {
       setResult(`❌ Sai: ${word.meaning}`);
     }
