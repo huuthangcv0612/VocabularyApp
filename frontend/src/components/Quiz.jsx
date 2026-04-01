@@ -22,7 +22,7 @@ function Quiz({ words, setView }) {
       .trim()
       .replace(/\s+/g, " ")
       .replace(/["'”“’‘]/g, "")
-      .replace(/\s*[,\/]+\s*/g, ",");
+      .replace(/\s*[,/]+\s*/g, ",");
 
   const getAcceptedAnswers = (meaning) => {
     if (!meaning) return [];

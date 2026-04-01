@@ -6,6 +6,7 @@ function Wheel({ words, setView }) {
   const [spinning, setSpinning] = useState(false);
   const [selected, setSelected] = useState(null);
   const [sentence, setSentence] = useState("");
+  const [sentenceError, setSentenceError] = useState("");
   const [feedback, setFeedback] = useState(null);
   const [checking, setChecking] = useState(false);
 
@@ -305,6 +306,36 @@ function Wheel({ words, setView }) {
     requestAnimationFrame(frame);
   };
 
+  const checkSentence = async () => {
+    if (sentence.trim().length === 0) {
+      setSentenceError("Vui lòng nhập câu của bạn");
+      return;
+    }
+
+    setSentenceError("");
+    setChecking(true);
+
+    try {
+      const r = await fetch("http://localhost:3000/grammar-check", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ sentence, language: "de-DE" }),
+      });
+
+      const data = await r.json();
+      if (!r.ok) {
+        setFeedback({ error: data.error || "Lỗi máy chủ" });
+      } else {
+        setFeedback(data);
+      }
+    } catch (e) {
+      console.error(e);
+      setFeedback({ error: "Không thể kết nối server" });
+    } finally {
+      setChecking(false);
+    }
+  };
+
   const rubric = evaluateFeedback(sentence, selected, feedback);
 
   if (!words || words.length === 0) {
@@ -342,49 +373,41 @@ function Wheel({ words, setView }) {
       )}
 
       {selected && (
-        <div className="word-card p-8 bg-gradient-to-br from-blue-50 to-purple-50 shadow-lg rounded-lg max-w-md mx-auto mt-6">
-          <h3 className="selected-word">{selected.word}</h3>
-          <p className="text-lg text-purple-600 mb-4">Nghĩa: {selected.meaning}</p>
+        <div className="wheel-dialog">
+          <div className="wheel-dialog-header">
+            <p className="small-label">TỪ VỰNG CỦA BẠN</p>
+            <h3 className="selected-word">{selected.word}</h3>
+          </div>
 
-          <label className="block text-left mb-2 font-semibold text-slate-700">Viết một câu sử dụng từ này:</label>
+          <p className="word-desc">Câu tiếng Đức của bạn <span className="warning">⚠️</span></p>
           <textarea
-            className="sentence-input"
+            className={`sentence-input ${sentenceError ? "input-error" : ""}`}
             value={sentence}
-            onChange={(e) => setSentence(e.target.value)}
-            placeholder="Mẫu: ..."
-            rows={4}
-          />
-
-          <button
-            className="complete-btn"
-            disabled={checking || sentence.trim().length === 0}
-            onClick={async () => {
-              if (sentence.trim().length === 0) return;
-
-              setChecking(true);
-              try {
-                const r = await fetch("http://localhost:3000/grammar-check", {
-                  method: "POST",
-                  headers: { "Content-Type": "application/json" },
-                  body: JSON.stringify({ sentence, language: "de-DE" }),
-                });
-
-                const data = await r.json();
-                if (!r.ok) {
-                  setFeedback({ error: data.error || "Lỗi máy chủ" });
-                } else {
-                  setFeedback(data);
-                }
-              } catch (e) {
-                console.error(e);
-                setFeedback({ error: "Không thể kết nối server" });
-              } finally {
-                setChecking(false);
-              }
+            onChange={(e) => {
+              setSentence(e.target.value);
+              if (sentenceError) setSentenceError("");
             }}
-          >
-            {checking ? "Đang kiểm tra..." : "Kiểm tra ngữ pháp"}
-          </button>
+            placeholder="Ví dụ: Das Haus ist sehr groß und schön..."
+            rows={5}
+          />
+          {sentenceError && <p className="error-text">{sentenceError}</p>}
+
+          <p className="hint-text">Bao gồm từ vựng đã chọn trong câu của bạn. Ngữ pháp sẽ được kiểm tra tự động.</p>
+
+          <div className="wheel-actions">
+            <button className="secondary-btn" onClick={() => {
+              setSelected(null);
+              setSentence("");
+              setSentenceError("");
+              setFeedback(null);
+            }}>
+              Quay lại Vòng Quay
+            </button>
+
+            <button className="primary-btn" onClick={checkSentence} disabled={checking}>
+              {checking ? "Đang kiểm tra..." : "Kiểm tra ngữ pháp →"}
+            </button>
+          </div>
 
           {feedback && (
             <div className="mt-5 text-left text-sm text-slate-700">

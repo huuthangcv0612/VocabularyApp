@@ -1,2943 +1,7058 @@
 [
-  
   {
     "lektion": "Lektion 7",
     "word": "das E-Bike, -s",
-    "meaning": "xe đạp điện"
+    "type": "noun",
+    "meaning": "xe đạp điện",
+    "forms": {},
+    "example": {
+      "de": "Das ist das E-Bike, -s.",
+      "vi": "Đây là E-Bike, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "abstellen",
-    "meaning": "sự ngắt, cắt, đỗ xe, đặt sang 1 bên"
+    "type": "verb",
+    "meaning": "sự ngắt, cắt, đỗ xe, đặt sang 1 bên",
+    "forms": {},
+    "example": {
+      "de": "Ich abstellen jeden Tag.",
+      "vi": "Tôi abstellen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Fahrt, -en",
-    "meaning": "chuyến đi"
+    "type": "noun",
+    "meaning": "chuyến đi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Fahrt, -en.",
+      "vi": "Đây là Fahrt, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "flexibel",
-    "meaning": "linh hoạt"
+    "type": "other",
+    "meaning": "linh hoạt",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'flexibel'.",
+      "vi": "Tôi sử dụng từ 'flexibel'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Linie, -en",
-    "meaning": "tuyến"
+    "type": "noun",
+    "meaning": "tuyến",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Linie, -en.",
+      "vi": "Đây là Linie, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Radfahrer, -",
-    "meaning": "người đi xe đạp"
+    "type": "noun",
+    "meaning": "người đi xe đạp",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Radfahrer, -.",
+      "vi": "Đây là Radfahrer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Radweg, -e",
-    "meaning": "đường dành cho xe đạp"
+    "type": "noun",
+    "meaning": "đường dành cho xe đạp",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Radweg, -e.",
+      "vi": "Đây là Radweg, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Seilbahn, -en",
-    "meaning": "tuyến cáp treo"
+    "type": "noun",
+    "meaning": "tuyến cáp treo",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Seilbahn, -en.",
+      "vi": "Đây là Seilbahn, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Chaos (Sg.)",
-    "meaning": "sự hỗn loạn"
+    "type": "noun",
+    "meaning": "sự hỗn loạn",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Chaos (Sg.).",
+      "vi": "Đây là Chaos (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Stau, -s",
-    "meaning": "sự tắc đường"
+    "type": "noun",
+    "meaning": "sự tắc đường",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Stau, -s.",
+      "vi": "Đây là Stau, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Luft (Sg.)",
-    "meaning": "không khí"
+    "type": "noun",
+    "meaning": "không khí",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Luft (Sg.).",
+      "vi": "Đây là Luft (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "in Zukunft",
-    "meaning": "trong tương lai"
+    "type": "phrase",
+    "meaning": "trong tương lai",
+    "forms": {},
+    "example": {
+      "de": "in Zukunft!",
+      "vi": "in Zukunft!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "reduzieren",
-    "meaning": "giảm thiểu"
+    "type": "verb",
+    "meaning": "giảm thiểu",
+    "forms": {},
+    "example": {
+      "de": "Ich reduzieren jeden Tag.",
+      "vi": "Tôi reduzieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "umweltfreundlich",
-    "meaning": "thân thiện với môi trường"
+    "type": "other",
+    "meaning": "thân thiện với môi trường",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'umweltfreundlich'.",
+      "vi": "Tôi sử dụng từ 'umweltfreundlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Großstadt, -ä,e",
-    "meaning": "thành phố lớn"
+    "type": "noun",
+    "meaning": "thành phố lớn",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Großstadt, -ä,e.",
+      "vi": "Đây là Großstadt, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Innenstadt, -ä,e",
-    "meaning": "trung tâm thành phố"
+    "type": "noun",
+    "meaning": "trung tâm thành phố",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Innenstadt, -ä,e.",
+      "vi": "Đây là Innenstadt, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Kombination, -en",
-    "meaning": "sự kết hợp, kết nối"
+    "type": "noun",
+    "meaning": "sự kết hợp, kết nối",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kombination, -en.",
+      "vi": "Đây là Kombination, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Konsequenz, -en",
-    "meaning": "hậu quả"
+    "type": "noun",
+    "meaning": "hậu quả",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Konsequenz, -en.",
+      "vi": "Đây là Konsequenz, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Konzept, -e",
-    "meaning": "dự thảo"
+    "type": "noun",
+    "meaning": "dự thảo",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Konzept, -e.",
+      "vi": "Đây là Konzept, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Fahrzeug, -e",
-    "meaning": "xe, tàu, thuyền"
+    "type": "noun",
+    "meaning": "xe, tàu, thuyền",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Fahrzeug, -e.",
+      "vi": "Đây là Fahrzeug, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Kfz, -s/ das Kraftfahrzeug, -e",
-    "meaning": "xe tải"
+    "type": "noun",
+    "meaning": "xe tải",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kfz, -s/ das Kraftfahrzeug, -e.",
+      "vi": "Đây là Kfz, -s/ Kraftfahrzeug, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Pkw, -s",
-    "meaning": "xe con"
+    "type": "noun",
+    "meaning": "xe con",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Pkw, -s.",
+      "vi": "Đây là Pkw, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Kennzeichen, -",
-    "meaning": "biển số"
+    "type": "noun",
+    "meaning": "biển số",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kennzeichen, -.",
+      "vi": "Đây là Kennzeichen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Motor, -en",
-    "meaning": "động cơ xe"
+    "type": "noun",
+    "meaning": "động cơ xe",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Motor, -en.",
+      "vi": "Đây là Motor, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Reifen, -",
-    "meaning": "lốp, bánh xe"
+    "type": "noun",
+    "meaning": "lốp, bánh xe",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Reifen, -.",
+      "vi": "Đây là Reifen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Panne, -n",
-    "meaning": "sự cố"
+    "type": "noun",
+    "meaning": "sự cố",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Panne, -n.",
+      "vi": "Đây là Panne, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "bremsen",
-    "meaning": "phanh"
+    "type": "verb",
+    "meaning": "phanh",
+    "forms": {},
+    "example": {
+      "de": "Ich bremsen jeden Tag.",
+      "vi": "Tôi bremsen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Garage, -n",
-    "meaning": "gara"
+    "type": "noun",
+    "meaning": "gara",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Garage, -n.",
+      "vi": "Đây là Garage, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Navi, -s",
-    "meaning": "thiết bị chỉ đường"
+    "type": "noun",
+    "meaning": "thiết bị chỉ đường",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Navi, -s.",
+      "vi": "Đây là Navi, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Benzin (Sg.)",
-    "meaning": "xăng, nhiên liệu"
+    "type": "noun",
+    "meaning": "xăng, nhiên liệu",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Benzin (Sg.).",
+      "vi": "Đây là Benzin (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Diesel (Sg.)",
-    "meaning": "dầu"
+    "type": "noun",
+    "meaning": "dầu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Diesel (Sg.).",
+      "vi": "Đây là Diesel (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "tanken",
-    "meaning": "đổ xăng"
+    "type": "verb",
+    "meaning": "đổ xăng",
+    "forms": {},
+    "example": {
+      "de": "Ich tanken jeden Tag.",
+      "vi": "Tôi tanken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Tankstelle, -n",
-    "meaning": "trạm xăng"
+    "type": "noun",
+    "meaning": "trạm xăng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Tankstelle, -n.",
+      "vi": "Đây là Tankstelle, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "parken",
-    "meaning": "đỗ xe"
+    "type": "verb",
+    "meaning": "đỗ xe",
+    "forms": {},
+    "example": {
+      "de": "Ich parken jeden Tag.",
+      "vi": "Tôi parken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Parkhaus, -ä,er",
-    "meaning": "nhà xe"
+    "type": "noun",
+    "meaning": "nhà xe",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Parkhaus, -ä,er.",
+      "vi": "Đây là Parkhaus, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Parkplatz, -ä,e",
-    "meaning": "nơi đỗ xe"
+    "type": "noun",
+    "meaning": "nơi đỗ xe",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Parkplatz, -ä,e.",
+      "vi": "Đây là Parkplatz, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der TÜV (Sg.)",
-    "meaning": "trạm đăng kiểm"
+    "type": "noun",
+    "meaning": "trạm đăng kiểm",
+    "forms": {},
+    "example": {
+      "de": "Das ist der TÜV (Sg.).",
+      "vi": "Đây là TÜV (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "versichert",
-    "meaning": "có bảo hiểm"
+    "type": "other",
+    "meaning": "có bảo hiểm",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'versichert'.",
+      "vi": "Tôi sử dụng từ 'versichert'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Versicherung, -en",
-    "meaning": "hãng bảo hiểm"
+    "type": "noun",
+    "meaning": "hãng bảo hiểm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Versicherung, -en.",
+      "vi": "Đây là Versicherung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Zugfahrt, -en",
-    "meaning": "chuyến tàu"
+    "type": "noun",
+    "meaning": "chuyến tàu",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zugfahrt, -en.",
+      "vi": "Đây là Zugfahrt, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Bordbistro, -s",
-    "meaning": "khoang ăn uống"
+    "type": "noun",
+    "meaning": "khoang ăn uống",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Bordbistro, -s.",
+      "vi": "Đây là Bordbistro, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Kinderabteil, -e",
-    "meaning": "khoang trẻ con"
+    "type": "noun",
+    "meaning": "khoang trẻ con",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kinderabteil, -e.",
+      "vi": "Đây là Kinderabteil, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Monatskarte, -en",
-    "meaning": "vé tháng"
+    "type": "noun",
+    "meaning": "vé tháng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Monatskarte, -en.",
+      "vi": "Đây là Monatskarte, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Platzresservierung, -en",
-    "meaning": "đặt chỗ"
+    "type": "noun",
+    "meaning": "đặt chỗ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Platzresservierung, -en.",
+      "vi": "Đây là Platzresservierung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "pendeln",
-    "meaning": "đi lại (thường xuyên)"
+    "type": "other",
+    "meaning": "đi lại (thường xuyên)",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'pendeln'.",
+      "vi": "Tôi sử dụng từ 'pendeln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "brauchen",
-    "meaning": "cần"
+    "type": "verb",
+    "meaning": "cần",
+    "forms": {},
+    "example": {
+      "de": "Ich brauchen jeden Tag.",
+      "vi": "Tôi brauchen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "weiterfahren",
-    "meaning": "đi tiếp (lái xe)"
+    "type": "verb",
+    "meaning": "đi tiếp (lái xe)",
+    "forms": {},
+    "example": {
+      "de": "Ich weiterfahren jeden Tag.",
+      "vi": "Tôi weiterfahren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "Mensch, wann geht es weiter?",
-    "meaning": "Trời, khi nào đi tiếp đây?"
+    "type": "phrase",
+    "meaning": "Trời, khi nào đi tiếp đây?",
+    "forms": {},
+    "example": {
+      "de": "Mensch, wann geht es weiter?!",
+      "vi": "Mensch, wann geht es weiter?!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "abfliegen",
-    "meaning": "cất cánh"
+    "type": "verb",
+    "meaning": "cất cánh",
+    "forms": {},
+    "example": {
+      "de": "Ich abfliegen jeden Tag.",
+      "vi": "Tôi abfliegen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Abflug, -ü,e",
-    "meaning": "sự cất cánh"
+    "type": "noun",
+    "meaning": "sự cất cánh",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Abflug, -ü,e.",
+      "vi": "Đây là Abflug, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "buchen",
-    "meaning": "đặt"
+    "type": "verb",
+    "meaning": "đặt",
+    "forms": {},
+    "example": {
+      "de": "Ich buchen jeden Tag.",
+      "vi": "Tôi buchen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "landen",
-    "meaning": "hạ cánh"
+    "type": "verb",
+    "meaning": "hạ cánh",
+    "forms": {},
+    "example": {
+      "de": "Ich landen jeden Tag.",
+      "vi": "Tôi landen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Beschreibung, -en",
-    "meaning": "sự miêu tả"
+    "type": "noun",
+    "meaning": "sự miêu tả",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Beschreibung, -en.",
+      "vi": "Đây là Beschreibung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "an ... vorbei (+D)",
-    "meaning": "đi qua"
+    "type": "phrase",
+    "meaning": "đi qua",
+    "forms": {},
+    "example": {
+      "de": "an ... vorbei (+D)!",
+      "vi": "an ... vorbei (+D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "gegenüber von (+D)",
-    "meaning": "đối diện với"
+    "type": "phrase",
+    "meaning": "đối diện với",
+    "forms": {},
+    "example": {
+      "de": "gegenüber von (+D)!",
+      "vi": "gegenüber von (+D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "dorthin",
-    "meaning": "đi đến đó"
+    "type": "other",
+    "meaning": "đi đến đó",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'dorthin'.",
+      "vi": "Tôi sử dụng từ 'dorthin'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Richtung, -en",
-    "meaning": "hướng"
+    "type": "noun",
+    "meaning": "hướng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Richtung, -en.",
+      "vi": "Đây là Richtung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "vorwärts",
-    "meaning": "tiến"
+    "type": "other",
+    "meaning": "tiến",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'vorwärts'.",
+      "vi": "Tôi sử dụng từ 'vorwärts'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "rückwärts",
-    "meaning": "lùi"
+    "type": "other",
+    "meaning": "lùi",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'rückwärts'.",
+      "vi": "Tôi sử dụng từ 'rückwärts'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "Geh immer geradeaus.",
-    "meaning": "cứ đi thẳng"
+    "type": "phrase",
+    "meaning": "cứ đi thẳng",
+    "forms": {},
+    "example": {
+      "de": "Geh immer geradeaus.!",
+      "vi": "Geh immer geradeaus.!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "vorbeigehen",
-    "meaning": "đi qua"
+    "type": "verb",
+    "meaning": "đi qua",
+    "forms": {},
+    "example": {
+      "de": "Ich vorbeigehen jeden Tag.",
+      "vi": "Tôi vorbeigehen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "dieKreuzung, -en",
-    "meaning": "ngã tư"
+    "type": "verb",
+    "meaning": "ngã tư",
+    "forms": {},
+    "example": {
+      "de": "Ich dieKreuzung, -en jeden Tag.",
+      "vi": "Tôi dieKreuzung, -en mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Ampel, -n",
-    "meaning": "đèn giao thông"
+    "type": "noun",
+    "meaning": "đèn giao thông",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Ampel, -n.",
+      "vi": "Đây là Ampel, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "halten",
-    "meaning": "dừng"
+    "type": "verb",
+    "meaning": "dừng",
+    "forms": {},
+    "example": {
+      "de": "Ich halten jeden Tag.",
+      "vi": "Tôi halten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Kundenservice, -s",
-    "meaning": "dịch vụ chăm sóc khách hàng"
+    "type": "noun",
+    "meaning": "dịch vụ chăm sóc khách hàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kundenservice, -s.",
+      "vi": "Đây là Kundenservice, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "telefonisch",
-    "meaning": "điện thoại"
+    "type": "other",
+    "meaning": "điện thoại",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'telefonisch'.",
+      "vi": "Tôi sử dụng từ 'telefonisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "erreichen",
-    "meaning": "đạt được, gọi được"
+    "type": "verb",
+    "meaning": "đạt được, gọi được",
+    "forms": {},
+    "example": {
+      "de": "Ich erreichen jeden Tag.",
+      "vi": "Tôi erreichen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "lösen",
-    "meaning": "giải quyết, xử lý"
+    "type": "verb",
+    "meaning": "giải quyết, xử lý",
+    "forms": {},
+    "example": {
+      "de": "Ich lösen jeden Tag.",
+      "vi": "Tôi lösen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "registrieren (sich)",
-    "meaning": "đăng kí"
+    "type": "phrase",
+    "meaning": "đăng kí",
+    "forms": {},
+    "example": {
+      "de": "registrieren (sich)!",
+      "vi": "registrieren (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die PIN, -s",
-    "meaning": "mã pin"
+    "type": "noun",
+    "meaning": "mã pin",
+    "forms": {},
+    "example": {
+      "de": "Das ist die PIN, -s.",
+      "vi": "Đây là PIN, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Expertin, -nen",
-    "meaning": "chuyên gia nữ"
+    "type": "noun",
+    "meaning": "chuyên gia nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Expertin, -nen.",
+      "vi": "Đây là Expertin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Prozent, -e",
-    "meaning": "phần trăm"
+    "type": "noun",
+    "meaning": "phần trăm",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Prozent, -e.",
+      "vi": "Đây là Prozent, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "etwa",
-    "meaning": "khoảng"
+    "type": "other",
+    "meaning": "khoảng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'etwa'.",
+      "vi": "Tôi sử dụng từ 'etwa'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Untersuchung, -en",
-    "meaning": "cuộc điều tra, nghiên cứu"
+    "type": "noun",
+    "meaning": "cuộc điều tra, nghiên cứu",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Untersuchung, -en.",
+      "vi": "Đây là Untersuchung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "zeigen",
-    "meaning": "chỉ"
+    "type": "verb",
+    "meaning": "chỉ",
+    "forms": {},
+    "example": {
+      "de": "Ich zeigen jeden Tag.",
+      "vi": "Tôi zeigen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Meinung, -en",
-    "meaning": "quan điểm"
+    "type": "noun",
+    "meaning": "quan điểm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Meinung, -en.",
+      "vi": "Đây là Meinung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "du hast recht",
-    "meaning": "bạn nói đúng"
+    "type": "phrase",
+    "meaning": "bạn nói đúng",
+    "forms": {},
+    "example": {
+      "de": "du hast recht!",
+      "vi": "du hast recht!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "gegen (+A)",
-    "meaning": "ngược lại, chống lại"
+    "type": "phrase",
+    "meaning": "ngược lại, chống lại",
+    "forms": {},
+    "example": {
+      "de": "gegen (+A)!",
+      "vi": "gegen (+A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "dafür sein",
-    "meaning": "đồng ý"
+    "type": "phrase",
+    "meaning": "đồng ý",
+    "forms": {},
+    "example": {
+      "de": "dafür sein!",
+      "vi": "dafür sein!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "dagegen sein",
-    "meaning": "phản đối"
+    "type": "phrase",
+    "meaning": "phản đối",
+    "forms": {},
+    "example": {
+      "de": "dagegen sein!",
+      "vi": "dagegen sein!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "Es geht auch anders.",
-    "meaning": "cũng  có thể bàn theo cách khác"
+    "type": "phrase",
+    "meaning": "cũng  có thể bàn theo cách khác",
+    "forms": {},
+    "example": {
+      "de": "Es geht auch anders.!",
+      "vi": "Es geht auch anders.!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Artikel, -",
-    "meaning": "một bài báo"
+    "type": "noun",
+    "meaning": "một bài báo",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Artikel, -.",
+      "vi": "Đây là Artikel, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "d.h. (das heisst)",
-    "meaning": "có nghĩa là"
+    "type": "phrase",
+    "meaning": "có nghĩa là",
+    "forms": {},
+    "example": {
+      "de": "d.h. (das heisst)!",
+      "vi": "d.h. (das heisst)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Kinderwagen, -",
-    "meaning": "xe nôi trẻ con"
+    "type": "noun",
+    "meaning": "xe nôi trẻ con",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kinderwagen, -.",
+      "vi": "Đây là Kinderwagen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Mama, -s",
-    "meaning": "mẹ"
+    "type": "noun",
+    "meaning": "mẹ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mama, -s.",
+      "vi": "Đây là Mama, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Stadtbesichtigung, -en",
-    "meaning": "tham quan thành phố"
+    "type": "noun",
+    "meaning": "tham quan thành phố",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Stadtbesichtigung, -en.",
+      "vi": "Đây là Stadtbesichtigung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Konzertsaal, -säle",
-    "meaning": "phòng nhạc"
+    "type": "noun",
+    "meaning": "phòng nhạc",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Konzertsaal, -säle.",
+      "vi": "Đây là Konzertsaal, -säle."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "klatschen",
-    "meaning": "vỗ tay"
+    "type": "verb",
+    "meaning": "vỗ tay",
+    "forms": {},
+    "example": {
+      "de": "Ich klatschen jeden Tag.",
+      "vi": "Tôi klatschen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "das Gewiter, -",
-    "meaning": "giông bão"
+    "type": "noun",
+    "meaning": "giông bão",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gewiter, -.",
+      "vi": "Đây là Gewiter, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Kaution, -en",
-    "meaning": "tiền cọc"
+    "type": "noun",
+    "meaning": "tiền cọc",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kaution, -en.",
+      "vi": "Đây là Kaution, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "ob",
-    "meaning": "liệu"
+    "type": "other",
+    "meaning": "liệu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'ob'.",
+      "vi": "Tôi sử dụng từ 'ob'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "Ganz schön schnell!",
-    "meaning": "nhanh thật đấy"
+    "type": "phrase",
+    "meaning": "nhanh thật đấy",
+    "forms": {},
+    "example": {
+      "de": "Ganz schön schnell!!",
+      "vi": "Ganz schön schnell!!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "schon mal",
-    "meaning": "đã từng"
+    "type": "phrase",
+    "meaning": "đã từng",
+    "forms": {},
+    "example": {
+      "de": "schon mal!",
+      "vi": "schon mal!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die SMS, -",
-    "meaning": "tin nhắn"
+    "type": "noun",
+    "meaning": "tin nhắn",
+    "forms": {},
+    "example": {
+      "de": "Das ist die SMS, -.",
+      "vi": "Đây là SMS, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "der Tarif, -e",
-    "meaning": "giá"
+    "type": "noun",
+    "meaning": "giá",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Tarif, -e.",
+      "vi": "Đây là Tarif, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "die Werbung, -en",
-    "meaning": "quảng cáo"
+    "type": "noun",
+    "meaning": "quảng cáo",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Werbung, -en.",
+      "vi": "Đây là Werbung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "sogar",
-    "meaning": "thậm chí"
+    "type": "other",
+    "meaning": "thậm chí",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'sogar'.",
+      "vi": "Tôi sử dụng từ 'sogar'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "elektrisch",
-    "meaning": "điện"
+    "type": "other",
+    "meaning": "điện",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'elektrisch'.",
+      "vi": "Tôi sử dụng từ 'elektrisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "allgemein",
-    "meaning": "nói chung"
+    "type": "other",
+    "meaning": "nói chung",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'allgemein'.",
+      "vi": "Tôi sử dụng từ 'allgemein'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "ewig",
-    "meaning": "mãi mãi"
+    "type": "other",
+    "meaning": "mãi mãi",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'ewig'.",
+      "vi": "Tôi sử dụng từ 'ewig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "nervig",
-    "meaning": "bực mình"
+    "type": "other",
+    "meaning": "bực mình",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'nervig'.",
+      "vi": "Tôi sử dụng từ 'nervig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "nötig",
-    "meaning": "cần thiết"
+    "type": "other",
+    "meaning": "cần thiết",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'nötig'.",
+      "vi": "Tôi sử dụng từ 'nötig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "sinnvoll",
-    "meaning": "có ý nghĩa"
+    "type": "other",
+    "meaning": "có ý nghĩa",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'sinnvoll'.",
+      "vi": "Tôi sử dụng từ 'sinnvoll'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "ungeduldig",
-    "meaning": "thiếu kiên nhẫn"
+    "type": "other",
+    "meaning": "thiếu kiên nhẫn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'ungeduldig'.",
+      "vi": "Tôi sử dụng từ 'ungeduldig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "unpraktisch",
-    "meaning": "bất tiện"
+    "type": "other",
+    "meaning": "bất tiện",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'unpraktisch'.",
+      "vi": "Tôi sử dụng từ 'unpraktisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "unterschiedlich",
-    "meaning": "khác nhau"
+    "type": "other",
+    "meaning": "khác nhau",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'unterschiedlich'.",
+      "vi": "Tôi sử dụng từ 'unterschiedlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "setzen (sich)",
-    "meaning": "ngồi xuống"
+    "type": "phrase",
+    "meaning": "ngồi xuống",
+    "forms": {},
+    "example": {
+      "de": "setzen (sich)!",
+      "vi": "setzen (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "überlegen (sich)",
-    "meaning": "cân nhắc"
+    "type": "phrase",
+    "meaning": "cân nhắc",
+    "forms": {},
+    "example": {
+      "de": "überlegen (sich)!",
+      "vi": "überlegen (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "versprechen",
-    "meaning": "hứa"
+    "type": "verb",
+    "meaning": "hứa",
+    "forms": {},
+    "example": {
+      "de": "Ich versprechen jeden Tag.",
+      "vi": "Tôi versprechen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "vorhaben",
-    "meaning": "định, có kế hoạch"
+    "type": "verb",
+    "meaning": "định, có kế hoạch",
+    "forms": {},
+    "example": {
+      "de": "Ich vorhaben jeden Tag.",
+      "vi": "Tôi vorhaben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 7",
     "word": "zusammenfassen",
-    "meaning": "tóm tắt"
+    "type": "verb",
+    "meaning": "tóm tắt",
+    "forms": {},
+    "example": {
+      "de": "Ich zusammenfassen jeden Tag.",
+      "vi": "Tôi zusammenfassen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Gitarre, -n",
-    "meaning": "đàn guitar"
+    "type": "noun",
+    "meaning": "đàn guitar",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gitarre, -n.",
+      "vi": "Đây là Gitarre, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Klavier, -e",
-    "meaning": "đàn piano"
+    "type": "noun",
+    "meaning": "đàn piano",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Klavier, -e.",
+      "vi": "Đây là Klavier, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Instrument, -e",
-    "meaning": "nhạc cụ"
+    "type": "noun",
+    "meaning": "nhạc cụ",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Instrument, -e.",
+      "vi": "Đây là Instrument, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Interesse, -n",
-    "meaning": "sự hứng thú"
+    "type": "noun",
+    "meaning": "sự hứng thú",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Interesse, -n.",
+      "vi": "Đây là Interesse, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "klug",
-    "meaning": "thông minh"
+    "type": "other",
+    "meaning": "thông minh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'klug'.",
+      "vi": "Tôi sử dụng từ 'klug'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "intelligent",
-    "meaning": "thông minh"
+    "type": "other",
+    "meaning": "thông minh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'intelligent'.",
+      "vi": "Tôi sử dụng từ 'intelligent'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Bücherei, -en",
-    "meaning": "cửa hiệu sách"
+    "type": "noun",
+    "meaning": "cửa hiệu sách",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Bücherei, -en.",
+      "vi": "Đây là Bücherei, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Kursleiter, -",
-    "meaning": "người hướng dẫn môn học"
+    "type": "noun",
+    "meaning": "người hướng dẫn môn học",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kursleiter, -.",
+      "vi": "Đây là Kursleiter, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der/die Lehrende, -n",
-    "meaning": "giảng viên"
+    "type": "phrase",
+    "meaning": "giảng viên",
+    "forms": {},
+    "example": {
+      "de": "der/die Lehrende, -n!",
+      "vi": "der/die Lehrende, -n!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der/die Lernende, -n",
-    "meaning": "sinh viên"
+    "type": "phrase",
+    "meaning": "sinh viên",
+    "forms": {},
+    "example": {
+      "de": "der/die Lernende, -n!",
+      "vi": "der/die Lernende, -n!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Sprechstunde, -n",
-    "meaning": "giờ làm việc, giờ khám bệnh"
+    "type": "noun",
+    "meaning": "giờ làm việc, giờ khám bệnh",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Sprechstunde, -n.",
+      "vi": "Đây là Sprechstunde, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Sekretariat, -e",
-    "meaning": "văn phòng thư kí"
+    "type": "noun",
+    "meaning": "văn phòng thư kí",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Sekretariat, -e.",
+      "vi": "Đây là Sekretariat, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "erfahren",
-    "meaning": "được biết (cái gì)"
+    "type": "verb",
+    "meaning": "được biết (cái gì)",
+    "forms": {},
+    "example": {
+      "de": "Ich erfahren jeden Tag.",
+      "vi": "Tôi erfahren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "neugierig",
-    "meaning": "tò mò"
+    "type": "other",
+    "meaning": "tò mò",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'neugierig'.",
+      "vi": "Tôi sử dụng từ 'neugierig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "kompliziert",
-    "meaning": "phức tạp"
+    "type": "other",
+    "meaning": "phức tạp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'kompliziert'.",
+      "vi": "Tôi sử dụng từ 'kompliziert'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "hart",
-    "meaning": "khó, cứng"
+    "type": "other",
+    "meaning": "khó, cứng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'hart'.",
+      "vi": "Tôi sử dụng từ 'hart'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "kapieren",
-    "meaning": "hiểu"
+    "type": "verb",
+    "meaning": "hiểu",
+    "forms": {},
+    "example": {
+      "de": "Ich kapieren jeden Tag.",
+      "vi": "Tôi kapieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Prüferin, -nen",
-    "meaning": "giám thị nữ"
+    "type": "noun",
+    "meaning": "giám thị nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Prüferin, -nen.",
+      "vi": "Đây là Prüferin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "mündlich",
-    "meaning": "vấn đáp"
+    "type": "other",
+    "meaning": "vấn đáp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'mündlich'.",
+      "vi": "Tôi sử dụng từ 'mündlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "schriftlich",
-    "meaning": "tự luận (bằng chữ viết)"
+    "type": "other",
+    "meaning": "tự luận (bằng chữ viết)",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'schriftlich'.",
+      "vi": "Tôi sử dụng từ 'schriftlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Schrift, -en",
-    "meaning": "chữ viết"
+    "type": "noun",
+    "meaning": "chữ viết",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Schrift, -en.",
+      "vi": "Đây là Schrift, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Einführung, -en",
-    "meaning": "sự mở đầu, giới thiệu (về điều gì)"
+    "type": "noun",
+    "meaning": "sự mở đầu, giới thiệu (về điều gì)",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Einführung, -en.",
+      "vi": "Đây là Einführung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Stoff, -e",
-    "meaning": "đề tài, chủ đề"
+    "type": "noun",
+    "meaning": "đề tài, chủ đề",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Stoff, -e.",
+      "vi": "Đây là Stoff, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Disziplin (Sg.)",
-    "meaning": "kỷ luật, môn thể thao"
+    "type": "noun",
+    "meaning": "kỷ luật, môn thể thao",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Disziplin (Sg.).",
+      "vi": "Đây là Disziplin (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Stipendium, Stipendien",
-    "meaning": "học bổng"
+    "type": "noun",
+    "meaning": "học bổng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Stipendium, Stipendien.",
+      "vi": "Đây là Stipendium, Stipendien."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Ratschlag, -ä,e",
-    "meaning": "lời khuyên"
+    "type": "noun",
+    "meaning": "lời khuyên",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Ratschlag, -ä,e.",
+      "vi": "Đây là Ratschlag, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Beratung, -en",
-    "meaning": "cuộc bàn bạc, ngành dịch vụ tư vấn"
+    "type": "noun",
+    "meaning": "cuộc bàn bạc, ngành dịch vụ tư vấn",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Beratung, -en.",
+      "vi": "Đây là Beratung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Förderung, -en",
-    "meaning": "sự yêu cầu"
+    "type": "noun",
+    "meaning": "sự yêu cầu",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Förderung, -en.",
+      "vi": "Đây là Förderung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "bieten",
-    "meaning": "mời"
+    "type": "verb",
+    "meaning": "mời",
+    "forms": {},
+    "example": {
+      "de": "Ich bieten jeden Tag.",
+      "vi": "Tôi bieten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Feedback, -s",
-    "meaning": "phản hồi"
+    "type": "noun",
+    "meaning": "phản hồi",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Feedback, -s.",
+      "vi": "Đây là Feedback, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Trick, -s",
-    "meaning": "mánh khóe, trò ảo thuật"
+    "type": "noun",
+    "meaning": "mánh khóe, trò ảo thuật",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Trick, -s.",
+      "vi": "Đây là Trick, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Zeitplan, -ä,e",
-    "meaning": "thời gian biểu"
+    "type": "noun",
+    "meaning": "thời gian biểu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Zeitplan, -ä,e.",
+      "vi": "Đây là Zeitplan, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "realistisch",
-    "meaning": "thực tế"
+    "type": "other",
+    "meaning": "thực tế",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'realistisch'.",
+      "vi": "Tôi sử dụng từ 'realistisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Energie, -n",
-    "meaning": "năng lượng"
+    "type": "noun",
+    "meaning": "năng lượng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Energie, -n.",
+      "vi": "Đây là Energie, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "lassen",
-    "meaning": "để lại"
+    "type": "verb",
+    "meaning": "để lại",
+    "forms": {},
+    "example": {
+      "de": "Ich lassen jeden Tag.",
+      "vi": "Tôi lassen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "unternehmen",
-    "meaning": "tiến hành"
+    "type": "verb",
+    "meaning": "tiến hành",
+    "forms": {},
+    "example": {
+      "de": "Ich unternehmen jeden Tag.",
+      "vi": "Tôi unternehmen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "verschieben",
-    "meaning": "hoãn lại, xê dịch"
+    "type": "verb",
+    "meaning": "hoãn lại, xê dịch",
+    "forms": {},
+    "example": {
+      "de": "Ich verschieben jeden Tag.",
+      "vi": "Tôi verschieben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Arbeitgeber, -",
-    "meaning": "chủ"
+    "type": "noun",
+    "meaning": "chủ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Arbeitgeber, -.",
+      "vi": "Đây là Arbeitgeber, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "anstellen",
-    "meaning": "thuê"
+    "type": "verb",
+    "meaning": "thuê",
+    "forms": {},
+    "example": {
+      "de": "Ich anstellen jeden Tag.",
+      "vi": "Tôi anstellen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Vollzeit (Sg.)",
-    "meaning": "toàn thời gian"
+    "type": "noun",
+    "meaning": "toàn thời gian",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Vollzeit (Sg.).",
+      "vi": "Đây là Vollzeit (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "freiberuflich",
-    "meaning": "nghề tự do"
+    "type": "other",
+    "meaning": "nghề tự do",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'freiberuflich'.",
+      "vi": "Tôi sử dụng từ 'freiberuflich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "stundenweise",
-    "meaning": "theo giờ"
+    "type": "other",
+    "meaning": "theo giờ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'stundenweise'.",
+      "vi": "Tôi sử dụng từ 'stundenweise'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Auftrag, -ä,e",
-    "meaning": "hợp đồng công, đơn đặt hàng"
+    "type": "noun",
+    "meaning": "hợp đồng công, đơn đặt hàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Auftrag, -ä,e.",
+      "vi": "Đây là Auftrag, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der PC, -s",
-    "meaning": "máy tính bàn"
+    "type": "noun",
+    "meaning": "máy tính bàn",
+    "forms": {},
+    "example": {
+      "de": "Das ist der PC, -s.",
+      "vi": "Đây là PC, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Autorin, -nen",
-    "meaning": "tác giả nữ"
+    "type": "noun",
+    "meaning": "tác giả nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Autorin, -nen.",
+      "vi": "Đây là Autorin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Babysitter, -",
-    "meaning": "người chăm trẻ"
+    "type": "noun",
+    "meaning": "người chăm trẻ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Babysitter, -.",
+      "vi": "Đây là Babysitter, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "ausländisch",
-    "meaning": "nước ngoài"
+    "type": "other",
+    "meaning": "nước ngoài",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'ausländisch'.",
+      "vi": "Tôi sử dụng từ 'ausländisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Konferenz, -en",
-    "meaning": "hội nghị"
+    "type": "noun",
+    "meaning": "hội nghị",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Konferenz, -en.",
+      "vi": "Đây là Konferenz, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Workshop, -s",
-    "meaning": "cuộc hội thảo về công việc"
+    "type": "noun",
+    "meaning": "cuộc hội thảo về công việc",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Workshop, -s.",
+      "vi": "Đây là Workshop, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "zusammenarbeiten",
-    "meaning": "làm việc cùng nhau"
+    "type": "verb",
+    "meaning": "làm việc cùng nhau",
+    "forms": {},
+    "example": {
+      "de": "Ich zusammenarbeiten jeden Tag.",
+      "vi": "Tôi zusammenarbeiten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "pensioniert",
-    "meaning": "đã về hưu"
+    "type": "other",
+    "meaning": "đã về hưu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'pensioniert'.",
+      "vi": "Tôi sử dụng từ 'pensioniert'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Rente,-n",
-    "meaning": "lương hưu"
+    "type": "noun",
+    "meaning": "lương hưu",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Rente,-n.",
+      "vi": "Đây là Rente,-n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Seniorin, -nen",
-    "meaning": "người lớn tuổi, người già"
+    "type": "noun",
+    "meaning": "người lớn tuổi, người già",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Seniorin, -nen.",
+      "vi": "Đây là Seniorin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "dolmetschen",
-    "meaning": "phiên dịch"
+    "type": "verb",
+    "meaning": "phiên dịch",
+    "forms": {},
+    "example": {
+      "de": "Ich dolmetschen jeden Tag.",
+      "vi": "Tôi dolmetschen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Dolmetscher, -",
-    "meaning": "phiên dịch viên"
+    "type": "noun",
+    "meaning": "phiên dịch viên",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Dolmetscher, -.",
+      "vi": "Đây là Dolmetscher, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "übersetzen",
-    "meaning": "phiên dịch"
+    "type": "verb",
+    "meaning": "phiên dịch",
+    "forms": {},
+    "example": {
+      "de": "Ich übersetzen jeden Tag.",
+      "vi": "Tôi übersetzen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Übersetzung, -en",
-    "meaning": "phiên dịch viên"
+    "type": "noun",
+    "meaning": "phiên dịch viên",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Übersetzung, -en.",
+      "vi": "Đây là Übersetzung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "begleiten",
-    "meaning": "đưa (ai đến đâu)"
+    "type": "verb",
+    "meaning": "đưa (ai đến đâu)",
+    "forms": {},
+    "example": {
+      "de": "Ich begleiten jeden Tag.",
+      "vi": "Tôi begleiten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "gehörlos",
-    "meaning": "khiếm thính"
+    "type": "other",
+    "meaning": "khiếm thính",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'gehörlos'.",
+      "vi": "Tôi sử dụng từ 'gehörlos'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "neutral bleiben",
-    "meaning": "giữ vị trí trung lập"
+    "type": "verb",
+    "meaning": "giữ vị trí trung lập",
+    "forms": {},
+    "example": {
+      "de": "Ich neutral bleiben jeden Tag.",
+      "vi": "Tôi neutral bleiben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "kommunizieren",
-    "meaning": "liên lạc, trò chuyện (với ai)"
+    "type": "verb",
+    "meaning": "liên lạc, trò chuyện (với ai)",
+    "forms": {},
+    "example": {
+      "de": "Ich kommunizieren jeden Tag.",
+      "vi": "Tôi kommunizieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Kommunikation (Sg.)",
-    "meaning": "sự liên lạc, trò chuyện"
+    "type": "noun",
+    "meaning": "sự liên lạc, trò chuyện",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kommunikation (Sg.).",
+      "vi": "Đây là Kommunikation (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Aktion, -en",
-    "meaning": "sự hoạt động"
+    "type": "noun",
+    "meaning": "sự hoạt động",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Aktion, -en.",
+      "vi": "Đây là Aktion, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "starten",
-    "meaning": "khởi động"
+    "type": "verb",
+    "meaning": "khởi động",
+    "forms": {},
+    "example": {
+      "de": "Ich starten jeden Tag.",
+      "vi": "Tôi starten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der/die Freiwillige, -n",
-    "meaning": "tình nguyện viên"
+    "type": "phrase",
+    "meaning": "tình nguyện viên",
+    "forms": {},
+    "example": {
+      "de": "der/die Freiwillige, -n!",
+      "vi": "der/die Freiwillige, -n!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "sorgen",
-    "meaning": "chăm sóc, lo liệu"
+    "type": "verb",
+    "meaning": "chăm sóc, lo liệu",
+    "forms": {},
+    "example": {
+      "de": "Ich sorgen jeden Tag.",
+      "vi": "Tôi sorgen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Service, -s",
-    "meaning": "dịch vụ"
+    "type": "noun",
+    "meaning": "dịch vụ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Service, -s.",
+      "vi": "Đây là Service, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "reparieren",
-    "meaning": "sửa chữa"
+    "type": "verb",
+    "meaning": "sửa chữa",
+    "forms": {},
+    "example": {
+      "de": "Ich reparieren jeden Tag.",
+      "vi": "Tôi reparieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Reparatur, -en",
-    "meaning": "việc sửa chữa"
+    "type": "noun",
+    "meaning": "việc sửa chữa",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Reparatur, -en.",
+      "vi": "Đây là Reparatur, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Werkzeug, -e",
-    "meaning": "dụng cụ"
+    "type": "noun",
+    "meaning": "dụng cụ",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Werkzeug, -e.",
+      "vi": "Đây là Werkzeug, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "wegwerfen",
-    "meaning": "vứt, bỏ"
+    "type": "verb",
+    "meaning": "vứt, bỏ",
+    "forms": {},
+    "example": {
+      "de": "Ich wegwerfen jeden Tag.",
+      "vi": "Tôi wegwerfen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "gebraucht",
-    "meaning": "cũ"
+    "type": "other",
+    "meaning": "cũ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'gebraucht'.",
+      "vi": "Tôi sử dụng từ 'gebraucht'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "voneinander",
-    "meaning": "từ nhau"
+    "type": "other",
+    "meaning": "từ nhau",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'voneinander'.",
+      "vi": "Tôi sử dụng từ 'voneinander'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "eine Präsentation halten",
-    "meaning": "thuyết trình"
+    "type": "verb",
+    "meaning": "thuyết trình",
+    "forms": {},
+    "example": {
+      "de": "Ich eine Präsentation halten jeden Tag.",
+      "vi": "Tôi eine Präsentation halten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "vortragen",
-    "meaning": "trình bày"
+    "type": "verb",
+    "meaning": "trình bày",
+    "forms": {},
+    "example": {
+      "de": "Ich vortragen jeden Tag.",
+      "vi": "Tôi vortragen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "beachten",
-    "meaning": "để ý, chú ý"
+    "type": "verb",
+    "meaning": "để ý, chú ý",
+    "forms": {},
+    "example": {
+      "de": "Ich beachten jeden Tag.",
+      "vi": "Tôi beachten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Einleitung, -en",
-    "meaning": "sự mở đầu"
+    "type": "noun",
+    "meaning": "sự mở đầu",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Einleitung, -en.",
+      "vi": "Đây là Einleitung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Gliederung, -en",
-    "meaning": "cấu trúc"
+    "type": "noun",
+    "meaning": "cấu trúc",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gliederung, -en.",
+      "vi": "Đây là Gliederung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Hauptteil, -e",
-    "meaning": "phần chính"
+    "type": "noun",
+    "meaning": "phần chính",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hauptteil, -e.",
+      "vi": "Đây là Hauptteil, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Inhalt, -e",
-    "meaning": "nội dung"
+    "type": "noun",
+    "meaning": "nội dung",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Inhalt, -e.",
+      "vi": "Đây là Inhalt, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Punkt, -e",
-    "meaning": "điểm"
+    "type": "noun",
+    "meaning": "điểm",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Punkt, -e.",
+      "vi": "Đây là Punkt, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Schluss, -ü,e",
-    "meaning": "kết thúc"
+    "type": "noun",
+    "meaning": "kết thúc",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Schluss, -ü,e.",
+      "vi": "Đây là Schluss, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "flüssig",
-    "meaning": "trôi chảy, liên tục"
+    "type": "other",
+    "meaning": "trôi chảy, liên tục",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'flüssig'.",
+      "vi": "Tôi sử dụng từ 'flüssig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Zuhörerin,  -nen",
-    "meaning": "thính giả"
+    "type": "noun",
+    "meaning": "thính giả",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zuhörerin,  -nen.",
+      "vi": "Đây là Zuhörerin,  -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Mitteilung, -en",
-    "meaning": "sự thông báo"
+    "type": "noun",
+    "meaning": "sự thông báo",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mitteilung, -en.",
+      "vi": "Đây là Mitteilung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "existieren",
-    "meaning": "tồn tại, hiện hữu"
+    "type": "verb",
+    "meaning": "tồn tại, hiện hữu",
+    "forms": {},
+    "example": {
+      "de": "Ich existieren jeden Tag.",
+      "vi": "Tôi existieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "zurechtkommen",
-    "meaning": "đối phó, đối mặt, chịu được"
+    "type": "verb",
+    "meaning": "đối phó, đối mặt, chịu được",
+    "forms": {},
+    "example": {
+      "de": "Ich zurechtkommen jeden Tag.",
+      "vi": "Tôi zurechtkommen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "beschweren (sich)",
-    "meaning": "khiếu nại, phàn nàn"
+    "type": "phrase",
+    "meaning": "khiếu nại, phàn nàn",
+    "forms": {},
+    "example": {
+      "de": "beschweren (sich)!",
+      "vi": "beschweren (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "dabei haben",
-    "meaning": "có (mang theo)"
+    "type": "verb",
+    "meaning": "có (mang theo)",
+    "forms": {},
+    "example": {
+      "de": "Ich dabei haben jeden Tag.",
+      "vi": "Tôi dabei haben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "putzen",
-    "meaning": "lau chùi, làm sạch"
+    "type": "verb",
+    "meaning": "lau chùi, làm sạch",
+    "forms": {},
+    "example": {
+      "de": "Ich putzen jeden Tag.",
+      "vi": "Tôi putzen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "spülen",
-    "meaning": "rửa (bát), giũ (đồ giặt)"
+    "type": "verb",
+    "meaning": "rửa (bát), giũ (đồ giặt)",
+    "forms": {},
+    "example": {
+      "de": "Ich spülen jeden Tag.",
+      "vi": "Tôi spülen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "tief",
-    "meaning": "sâu"
+    "type": "other",
+    "meaning": "sâu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'tief'.",
+      "vi": "Tôi sử dụng từ 'tief'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "fett",
-    "meaning": "béo"
+    "type": "other",
+    "meaning": "béo",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'fett'.",
+      "vi": "Tôi sử dụng từ 'fett'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "einzeln",
-    "meaning": "lẻ"
+    "type": "other",
+    "meaning": "lẻ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'einzeln'.",
+      "vi": "Tôi sử dụng từ 'einzeln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "erfolderlich",
-    "meaning": "cần thiết, bắt buộc"
+    "type": "other",
+    "meaning": "cần thiết, bắt buộc",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'erfolderlich'.",
+      "vi": "Tôi sử dụng từ 'erfolderlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Hälfte, -n",
-    "meaning": "một nửa"
+    "type": "noun",
+    "meaning": "một nửa",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hälfte, -n.",
+      "vi": "Đây là Hälfte, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Menge, -n",
-    "meaning": "đám đông"
+    "type": "noun",
+    "meaning": "đám đông",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Menge, -n.",
+      "vi": "Đây là Menge, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Qualität, -en",
-    "meaning": "chất lượng"
+    "type": "noun",
+    "meaning": "chất lượng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Qualität, -en.",
+      "vi": "Đây là Qualität, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Katalog, -e",
-    "meaning": "bộ danh mục"
+    "type": "noun",
+    "meaning": "bộ danh mục",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Katalog, -e.",
+      "vi": "Đây là Katalog, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Prospekt, -e",
-    "meaning": "tờ rơi"
+    "type": "noun",
+    "meaning": "tờ rơi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Prospekt, -e.",
+      "vi": "Đây là Prospekt, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Herz, -en",
-    "meaning": "tim, trung tâm"
+    "type": "noun",
+    "meaning": "tim, trung tâm",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Herz, -en.",
+      "vi": "Đây là Herz, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Figur, -en",
-    "meaning": "hình tượng"
+    "type": "noun",
+    "meaning": "hình tượng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Figur, -en.",
+      "vi": "Đây là Figur, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "das Mineralwasser, -",
-    "meaning": "nước khoáng"
+    "type": "noun",
+    "meaning": "nước khoáng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Mineralwasser, -.",
+      "vi": "Đây là Mineralwasser, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Zitrone, -n",
-    "meaning": "chanh"
+    "type": "noun",
+    "meaning": "chanh",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zitrone, -n.",
+      "vi": "Đây là Zitrone, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Portion, -en",
-    "meaning": "khẩu phần"
+    "type": "noun",
+    "meaning": "khẩu phần",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Portion, -en.",
+      "vi": "Đây là Portion, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "tagsüber",
-    "meaning": "ban ngày"
+    "type": "other",
+    "meaning": "ban ngày",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'tagsüber'.",
+      "vi": "Tôi sử dụng từ 'tagsüber'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "die Mitternacht (Sg.)",
-    "meaning": "giữa đêm"
+    "type": "noun",
+    "meaning": "giữa đêm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mitternacht (Sg.).",
+      "vi": "Đây là Mitternacht (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "der Wald, -ä,er",
-    "meaning": "rừng"
+    "type": "noun",
+    "meaning": "rừng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wald, -ä,er.",
+      "vi": "Đây là Wald, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "notwendig",
-    "meaning": "cần thiết"
+    "type": "other",
+    "meaning": "cần thiết",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'notwendig'.",
+      "vi": "Tôi sử dụng từ 'notwendig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "prima",
-    "meaning": "tuyệt vời"
+    "type": "other",
+    "meaning": "tuyệt vời",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'prima'.",
+      "vi": "Tôi sử dụng từ 'prima'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "sowieso",
-    "meaning": "dù sao"
+    "type": "other",
+    "meaning": "dù sao",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'sowieso'.",
+      "vi": "Tôi sử dụng từ 'sowieso'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 8",
     "word": "übrigens",
-    "meaning": "nhân tiện, tiện thể"
+    "type": "other",
+    "meaning": "nhân tiện, tiện thể",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'übrigens'.",
+      "vi": "Tôi sử dụng từ 'übrigens'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Sportart, -en",
-    "meaning": "môn thể thao"
+    "type": "noun",
+    "meaning": "môn thể thao",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Sportart, -en.",
+      "vi": "Đây là Sportart, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "sich bewegen",
-    "meaning": "cử động, chuyển động"
+    "type": "verb",
+    "meaning": "cử động, chuyển động",
+    "forms": {},
+    "example": {
+      "de": "Ich sich bewegen jeden Tag.",
+      "vi": "Tôi sich bewegen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Kajak, -s",
-    "meaning": "thuyền Kajak"
+    "type": "noun",
+    "meaning": "thuyền Kajak",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kajak, -s.",
+      "vi": "Đây là Kajak, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Kitesurfen (Sg.)",
-    "meaning": "lướt ván diều, lướt ván dù"
+    "type": "noun",
+    "meaning": "lướt ván diều, lướt ván dù",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kitesurfen (Sg.).",
+      "vi": "Đây là Kitesurfen (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "surfen",
-    "meaning": "lướt"
+    "type": "verb",
+    "meaning": "lướt",
+    "forms": {},
+    "example": {
+      "de": "Ich surfen jeden Tag.",
+      "vi": "Tôi surfen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "tauchen",
-    "meaning": "lặn"
+    "type": "verb",
+    "meaning": "lặn",
+    "forms": {},
+    "example": {
+      "de": "Ich tauchen jeden Tag.",
+      "vi": "Tôi tauchen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "langlaufen",
-    "meaning": "trượt tuyết"
+    "type": "verb",
+    "meaning": "trượt tuyết",
+    "forms": {},
+    "example": {
+      "de": "Ich langlaufen jeden Tag.",
+      "vi": "Tôi langlaufen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "Volleybal spielen",
-    "meaning": "chơi bóng chuyền"
+    "type": "verb",
+    "meaning": "chơi bóng chuyền",
+    "forms": {},
+    "example": {
+      "de": "Ich Volleybal spielen jeden Tag.",
+      "vi": "Tôi Volleybal spielen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Tor, -e",
-    "meaning": "khung thành"
+    "type": "noun",
+    "meaning": "khung thành",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Tor, -e.",
+      "vi": "Đây là Tor, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "schießen",
-    "meaning": "ghi bàn, bắn"
+    "type": "verb",
+    "meaning": "ghi bàn, bắn",
+    "forms": {},
+    "example": {
+      "de": "Ich schießen jeden Tag.",
+      "vi": "Tôi schießen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "werfen",
-    "meaning": "ném"
+    "type": "verb",
+    "meaning": "ném",
+    "forms": {},
+    "example": {
+      "de": "Ich werfen jeden Tag.",
+      "vi": "Tôi werfen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "mitspielen",
-    "meaning": "chơi cùng"
+    "type": "verb",
+    "meaning": "chơi cùng",
+    "forms": {},
+    "example": {
+      "de": "Ich mitspielen jeden Tag.",
+      "vi": "Tôi mitspielen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Rad, -ä,er",
-    "meaning": "bánh xe, xe đạp"
+    "type": "noun",
+    "meaning": "bánh xe, xe đạp",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Rad, -ä,er.",
+      "vi": "Đây là Rad, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Radtour, -en",
-    "meaning": "tour xe đạp"
+    "type": "noun",
+    "meaning": "tour xe đạp",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Radtour, -en.",
+      "vi": "Đây là Radtour, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "reiten",
-    "meaning": "cưỡi ngựa"
+    "type": "verb",
+    "meaning": "cưỡi ngựa",
+    "forms": {},
+    "example": {
+      "de": "Ich reiten jeden Tag.",
+      "vi": "Tôi reiten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "Yoga machen",
-    "meaning": "tập yoga"
+    "type": "verb",
+    "meaning": "tập yoga",
+    "forms": {},
+    "example": {
+      "de": "Ich Yoga machen jeden Tag.",
+      "vi": "Tôi Yoga machen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Kletterer",
-    "meaning": "người leo núi"
+    "type": "noun",
+    "meaning": "người leo núi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kletterer.",
+      "vi": "Đây là Kletterer."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Kletterin, -nen",
-    "meaning": "người leo núi nữ"
+    "type": "noun",
+    "meaning": "người leo núi nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kletterin, -nen.",
+      "vi": "Đây là Kletterin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Wanderung, -en",
-    "meaning": "sự lang thang, cuộc đi bộ đường dài"
+    "type": "noun",
+    "meaning": "sự lang thang, cuộc đi bộ đường dài",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Wanderung, -en.",
+      "vi": "Đây là Wanderung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Strecke, -n",
-    "meaning": "đường đua"
+    "type": "noun",
+    "meaning": "đường đua",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Strecke, -n.",
+      "vi": "Đây là Strecke, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Kondition (Sg.)",
-    "meaning": "diều kiện, thể lực"
+    "type": "noun",
+    "meaning": "diều kiện, thể lực",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kondition (Sg.).",
+      "vi": "Đây là Kondition (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Gesundheit (Sg.)",
-    "meaning": "sức khỏe"
+    "type": "noun",
+    "meaning": "sức khỏe",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gesundheit (Sg.).",
+      "vi": "Đây là Gesundheit (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "entspannen (sich)",
-    "meaning": "thư giãn"
+    "type": "phrase",
+    "meaning": "thư giãn",
+    "forms": {},
+    "example": {
+      "de": "entspannen (sich)!",
+      "vi": "entspannen (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Wettbewerb -e",
-    "meaning": "cuộc thi"
+    "type": "noun",
+    "meaning": "cuộc thi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wettbewerb -e.",
+      "vi": "Đây là Wettbewerb -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Fußballschuh, -e",
-    "meaning": "giày bóng đá"
+    "type": "noun",
+    "meaning": "giày bóng đá",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Fußballschuh, -e.",
+      "vi": "Đây là Fußballschuh, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Klettergurt, -e",
-    "meaning": "dây, đai hỗ trợ leo núi"
+    "type": "noun",
+    "meaning": "dây, đai hỗ trợ leo núi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Klettergurt, -e.",
+      "vi": "Đây là Klettergurt, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Helm, -e",
-    "meaning": "mũ bảo hiểm"
+    "type": "noun",
+    "meaning": "mũ bảo hiểm",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Helm, -e.",
+      "vi": "Đây là Helm, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Matte, -n",
-    "meaning": "đệm"
+    "type": "noun",
+    "meaning": "đệm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Matte, -n.",
+      "vi": "Đây là Matte, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Mountainbike, -s",
-    "meaning": "xe đạp địa hình"
+    "type": "noun",
+    "meaning": "xe đạp địa hình",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Mountainbike, -s.",
+      "vi": "Đây là Mountainbike, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Schläger, -",
-    "meaning": "gậy (bóng chày), vợt (cầu lông)"
+    "type": "noun",
+    "meaning": "gậy (bóng chày), vợt (cầu lông)",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Schläger, -.",
+      "vi": "Đây là Schläger, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Skistock, -ö,e",
-    "meaning": "gậy trượt tuyết"
+    "type": "noun",
+    "meaning": "gậy trượt tuyết",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Skistock, -ö,e.",
+      "vi": "Đây là Skistock, -ö,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Paddel, -",
-    "meaning": "chèo"
+    "type": "noun",
+    "meaning": "chèo",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Paddel, -.",
+      "vi": "Đây là Paddel, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Surfbrett, -er",
-    "meaning": "ván lướt sóng"
+    "type": "noun",
+    "meaning": "ván lướt sóng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Surfbrett, -er.",
+      "vi": "Đây là Surfbrett, -er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Taucherbrille, -n",
-    "meaning": "kính lặn"
+    "type": "noun",
+    "meaning": "kính lặn",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Taucherbrille, -n.",
+      "vi": "Đây là Taucherbrille, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Sportverein, -e",
-    "meaning": "hiệp hội thể thao"
+    "type": "noun",
+    "meaning": "hiệp hội thể thao",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Sportverein, -e.",
+      "vi": "Đây là Sportverein, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Mannschaft, -en",
-    "meaning": "đội, team, nhóm"
+    "type": "noun",
+    "meaning": "đội, team, nhóm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mannschaft, -en.",
+      "vi": "Đây là Mannschaft, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Fußballstar, -s",
-    "meaning": "ngôi sao bóng đá"
+    "type": "noun",
+    "meaning": "ngôi sao bóng đá",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Fußballstar, -s.",
+      "vi": "Đây là Fußballstar, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Fanartikel, -",
-    "meaning": "kỷ vật"
+    "type": "noun",
+    "meaning": "kỷ vật",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Fanartikel, -.",
+      "vi": "Đây là Fanartikel, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "treu",
-    "meaning": "trung thành"
+    "type": "other",
+    "meaning": "trung thành",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'treu'.",
+      "vi": "Tôi sử dụng từ 'treu'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "benehmen",
-    "meaning": "cư xử"
+    "type": "verb",
+    "meaning": "cư xử",
+    "forms": {},
+    "example": {
+      "de": "Ich benehmen jeden Tag.",
+      "vi": "Tôi benehmen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Vorbild, -er",
-    "meaning": "gương mẫu"
+    "type": "noun",
+    "meaning": "gương mẫu",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Vorbild, -er.",
+      "vi": "Đây là Vorbild, -er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "sympathisch",
-    "meaning": "dễ thương, đáng mến"
+    "type": "other",
+    "meaning": "dễ thương, đáng mến",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'sympathisch'.",
+      "vi": "Tôi sử dụng từ 'sympathisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "großartig",
-    "meaning": "tuyệt vời, lộng lẫy"
+    "type": "other",
+    "meaning": "tuyệt vời, lộng lẫy",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'großartig'.",
+      "vi": "Tôi sử dụng từ 'großartig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "genial",
-    "meaning": "thiên tài"
+    "type": "other",
+    "meaning": "thiên tài",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'genial'.",
+      "vi": "Tôi sử dụng từ 'genial'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "unglaublich",
-    "meaning": "không tin nổi, khó tin"
+    "type": "other",
+    "meaning": "không tin nổi, khó tin",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'unglaublich'.",
+      "vi": "Tôi sử dụng từ 'unglaublich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Wahnsinn",
-    "meaning": "điên khùng, tuyệt vời"
+    "type": "noun",
+    "meaning": "điên khùng, tuyệt vời",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wahnsinn.",
+      "vi": "Đây là Wahnsinn."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das war wahnsinnig gut!",
-    "meaning": "đó thật sự điên rồ!"
+    "type": "noun",
+    "meaning": "đó thật sự điên rồ!",
+    "forms": {},
+    "example": {
+      "de": "Das ist das war wahnsinnig gut!.",
+      "vi": "Đây là war wahnsinnig gut!."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Hoffnung, -en",
-    "meaning": "hi vọng"
+    "type": "noun",
+    "meaning": "hi vọng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hoffnung, -en.",
+      "vi": "Đây là Hoffnung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "bestimmt",
-    "meaning": "rõ ràng, chắc chắn"
+    "type": "other",
+    "meaning": "rõ ràng, chắc chắn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'bestimmt'.",
+      "vi": "Tôi sử dụng từ 'bestimmt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Erfolg, -e",
-    "meaning": "sự thành công"
+    "type": "noun",
+    "meaning": "sự thành công",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Erfolg, -e.",
+      "vi": "Đây là Erfolg, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Enttäuschung, -en",
-    "meaning": "sự thất vọng"
+    "type": "noun",
+    "meaning": "sự thất vọng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Enttäuschung, -en.",
+      "vi": "Đây là Enttäuschung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "verlieren",
-    "meaning": "mất, thua"
+    "type": "verb",
+    "meaning": "mất, thua",
+    "forms": {},
+    "example": {
+      "de": "Ich verlieren jeden Tag.",
+      "vi": "Tôi verlieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Katastrophe, -n",
-    "meaning": "tai họa, thảm hoạ"
+    "type": "noun",
+    "meaning": "tai họa, thảm hoạ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Katastrophe, -n.",
+      "vi": "Đây là Katastrophe, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "Was denkst du, sollen wir..?",
-    "meaning": "Bạn nghĩ sao, chúng ta có nên..?"
+    "type": "phrase",
+    "meaning": "Bạn nghĩ sao, chúng ta có nên..?",
+    "forms": {},
+    "example": {
+      "de": "Was denkst du, sollen wir..?!",
+      "vi": "Was denkst du, sollen wir..?!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "Wir könnten....",
-    "meaning": "Chúng ta có thể..."
+    "type": "phrase",
+    "meaning": "Chúng ta có thể...",
+    "forms": {},
+    "example": {
+      "de": "Wir könnten....!",
+      "vi": "Wir könnten....!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "einverstanden sein",
-    "meaning": "đồng ý"
+    "type": "phrase",
+    "meaning": "đồng ý",
+    "forms": {},
+    "example": {
+      "de": "einverstanden sein!",
+      "vi": "einverstanden sein!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "passen",
-    "meaning": "phù hợp"
+    "type": "verb",
+    "meaning": "phù hợp",
+    "forms": {},
+    "example": {
+      "de": "Ich passen jeden Tag.",
+      "vi": "Tôi passen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Anreise, -n",
-    "meaning": "Hành trình, đến nơi"
+    "type": "noun",
+    "meaning": "Hành trình, đến nơi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Anreise, -n.",
+      "vi": "Đây là Anreise, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Einwohner, -",
-    "meaning": "Nam cư dân"
+    "type": "noun",
+    "meaning": "Nam cư dân",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Einwohner, -.",
+      "vi": "Đây là Einwohner, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Einwohnerin, -nen",
-    "meaning": "Nữ cư dân"
+    "type": "noun",
+    "meaning": "Nữ cư dân",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Einwohnerin, -nen.",
+      "vi": "Đây là Einwohnerin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "entfernt",
-    "meaning": "xa"
+    "type": "other",
+    "meaning": "xa",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'entfernt'.",
+      "vi": "Tôi sử dụng từ 'entfernt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "kulturell",
-    "meaning": "thuộc về văn hoá"
+    "type": "other",
+    "meaning": "thuộc về văn hoá",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'kulturell'.",
+      "vi": "Tôi sử dụng từ 'kulturell'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "faszinerend",
-    "meaning": "hấp dẫn"
+    "type": "other",
+    "meaning": "hấp dẫn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'faszinerend'.",
+      "vi": "Tôi sử dụng từ 'faszinerend'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Gasthaus, -ä,er",
-    "meaning": "Nhà khách, nhà trọ"
+    "type": "noun",
+    "meaning": "Nhà khách, nhà trọ",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gasthaus, -ä,er.",
+      "vi": "Đây là Gasthaus, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "hinunter",
-    "meaning": "xuống dưới"
+    "type": "other",
+    "meaning": "xuống dưới",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'hinunter'.",
+      "vi": "Tôi sử dụng từ 'hinunter'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Gebiet, -e",
-    "meaning": "Vùng, Khu vực"
+    "type": "noun",
+    "meaning": "Vùng, Khu vực",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gebiet, -e.",
+      "vi": "Đây là Gebiet, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Umgebung, -en",
-    "meaning": "Môi trường, Vùng lân cận"
+    "type": "noun",
+    "meaning": "Môi trường, Vùng lân cận",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Umgebung, -en.",
+      "vi": "Đây là Umgebung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Nationalpark, -s",
-    "meaning": "Vườn Quốc Gia"
+    "type": "noun",
+    "meaning": "Vườn Quốc Gia",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Nationalpark, -s.",
+      "vi": "Đây là Nationalpark, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Tal, -ä,er",
-    "meaning": "Thung Lũng"
+    "type": "noun",
+    "meaning": "Thung Lũng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Tal, -ä,er.",
+      "vi": "Đây là Tal, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Höhle, -n",
-    "meaning": "Hang Động"
+    "type": "noun",
+    "meaning": "Hang Động",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Höhle, -n.",
+      "vi": "Đây là Höhle, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Führer, -",
-    "meaning": "Lãnh Đạo"
+    "type": "noun",
+    "meaning": "Lãnh Đạo",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Führer, -.",
+      "vi": "Đây là Führer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Führerin, -nen",
-    "meaning": "Lãnh Đạo nữ"
+    "type": "noun",
+    "meaning": "Lãnh Đạo nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Führerin, -nen.",
+      "vi": "Đây là Führerin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Temperatur, -en",
-    "meaning": "Nhiệt độ"
+    "type": "noun",
+    "meaning": "Nhiệt độ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Temperatur, -en.",
+      "vi": "Đây là Temperatur, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Nebel, -",
-    "meaning": "Sương Mù"
+    "type": "noun",
+    "meaning": "Sương Mù",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Nebel, -.",
+      "vi": "Đây là Nebel, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "stark",
-    "meaning": "khoẻ, dày đặc, mạnh"
+    "type": "other",
+    "meaning": "khoẻ, dày đặc, mạnh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'stark'.",
+      "vi": "Tôi sử dụng từ 'stark'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "trocken",
-    "meaning": "khô"
+    "type": "verb",
+    "meaning": "khô",
+    "forms": {},
+    "example": {
+      "de": "Ich trocken jeden Tag.",
+      "vi": "Tôi trocken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "außer (+D)",
-    "meaning": "ngoài, ngoài ra"
+    "type": "phrase",
+    "meaning": "ngoài, ngoài ra",
+    "forms": {},
+    "example": {
+      "de": "außer (+D)!",
+      "vi": "außer (+D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "ausfallen",
-    "meaning": "huỷ, bỏ"
+    "type": "verb",
+    "meaning": "huỷ, bỏ",
+    "forms": {},
+    "example": {
+      "de": "Ich ausfallen jeden Tag.",
+      "vi": "Tôi ausfallen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "deshalb",
-    "meaning": "bởi vậy, cho nên"
+    "type": "other",
+    "meaning": "bởi vậy, cho nên",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'deshalb'.",
+      "vi": "Tôi sử dụng từ 'deshalb'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "trotzdem",
-    "meaning": "tuy nhiên, dù, nhưng"
+    "type": "other",
+    "meaning": "tuy nhiên, dù, nhưng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'trotzdem'.",
+      "vi": "Tôi sử dụng từ 'trotzdem'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "basteln",
-    "meaning": "làm đồ, làm thủ công"
+    "type": "other",
+    "meaning": "làm đồ, làm thủ công",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'basteln'.",
+      "vi": "Tôi sử dụng từ 'basteln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Kette, -n",
-    "meaning": "dây đeo, xích, dây chuyền"
+    "type": "noun",
+    "meaning": "dây đeo, xích, dây chuyền",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kette, -n.",
+      "vi": "Đây là Kette, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "das Material, -ien",
-    "meaning": "vật liệu, chất liệu"
+    "type": "noun",
+    "meaning": "vật liệu, chất liệu",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Material, -ien.",
+      "vi": "Đây là Material, -ien."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "zurückgeben",
-    "meaning": "trả lại, đưa lại"
+    "type": "verb",
+    "meaning": "trả lại, đưa lại",
+    "forms": {},
+    "example": {
+      "de": "Ich zurückgeben jeden Tag.",
+      "vi": "Tôi zurückgeben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "bewachen",
-    "meaning": "canh gác, trông coi"
+    "type": "verb",
+    "meaning": "canh gác, trông coi",
+    "forms": {},
+    "example": {
+      "de": "Ich bewachen jeden Tag.",
+      "vi": "Tôi bewachen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Staat, -en",
-    "meaning": "Nhà nước, đất nước, chính phủ"
+    "type": "noun",
+    "meaning": "Nhà nước, đất nước, chính phủ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Staat, -en.",
+      "vi": "Đây là Staat, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Kanton, -e",
-    "meaning": "Quận, bang"
+    "type": "noun",
+    "meaning": "Quận, bang",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kanton, -e.",
+      "vi": "Đây là Kanton, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der  Cousin, -s",
-    "meaning": "Anh họ, em họ"
+    "type": "noun",
+    "meaning": "Anh họ, em họ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der  Cousin, -s.",
+      "vi": "Đây là  Cousin, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Cousine, -n",
-    "meaning": "Chị họ, em họ"
+    "type": "noun",
+    "meaning": "Chị họ, em họ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Cousine, -n.",
+      "vi": "Đây là Cousine, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "die Sendung, -en",
-    "meaning": "Chương trình"
+    "type": "noun",
+    "meaning": "Chương trình",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Sendung, -en.",
+      "vi": "Đây là Sendung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "eine Antwort geben",
-    "meaning": "trả lời"
+    "type": "verb",
+    "meaning": "trả lời",
+    "forms": {},
+    "example": {
+      "de": "Ich eine Antwort geben jeden Tag.",
+      "vi": "Tôi eine Antwort geben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "der Hinweis, -e",
-    "meaning": "Gợi ý, bằng chứng"
+    "type": "noun",
+    "meaning": "Gợi ý, bằng chứng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hinweis, -e.",
+      "vi": "Đây là Hinweis, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "quer",
-    "meaning": "ngang"
+    "type": "other",
+    "meaning": "ngang",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'quer'.",
+      "vi": "Tôi sử dụng từ 'quer'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "übermorgen",
-    "meaning": "Ngày kia"
+    "type": "verb",
+    "meaning": "Ngày kia",
+    "forms": {},
+    "example": {
+      "de": "Ich übermorgen jeden Tag.",
+      "vi": "Tôi übermorgen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 9",
     "word": "neulich",
-    "meaning": "mới, vừa xong"
+    "type": "other",
+    "meaning": "mới, vừa xong",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'neulich'.",
+      "vi": "Tôi sử dụng từ 'neulich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Zuhause (Sg.)",
-    "meaning": "Nhà, Ở nhà"
+    "type": "noun",
+    "meaning": "Nhà, Ở nhà",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Zuhause (Sg.).",
+      "vi": "Đây là Zuhause (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Bauernhof, -ö,e",
-    "meaning": "Trang trại"
+    "type": "noun",
+    "meaning": "Trang trại",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Bauernhof, -ö,e.",
+      "vi": "Đây là Bauernhof, -ö,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Ferienwohnung, -en",
-    "meaning": "Căn hộ nghỉ dưỡng"
+    "type": "noun",
+    "meaning": "Căn hộ nghỉ dưỡng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Ferienwohnung, -en.",
+      "vi": "Đây là Ferienwohnung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Bauer, -n",
-    "meaning": "Nông dân"
+    "type": "noun",
+    "meaning": "Nông dân",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Bauer, -n.",
+      "vi": "Đây là Bauer, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "mitten",
-    "meaning": "giữa, trung tâm"
+    "type": "verb",
+    "meaning": "giữa, trung tâm",
+    "forms": {},
+    "example": {
+      "de": "Ich mitten jeden Tag.",
+      "vi": "Tôi mitten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "einsam",
-    "meaning": "lẻ loi, đơn độc"
+    "type": "other",
+    "meaning": "lẻ loi, đơn độc",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'einsam'.",
+      "vi": "Tôi sử dụng từ 'einsam'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Stadtrand, -ä,er",
-    "meaning": "Vùng ngoại ô"
+    "type": "noun",
+    "meaning": "Vùng ngoại ô",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Stadtrand, -ä,er.",
+      "vi": "Đây là Stadtrand, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "außerhalb von (+D)",
-    "meaning": "nằm ngoài, bên ngoài của..."
+    "type": "phrase",
+    "meaning": "nằm ngoài, bên ngoài của...",
+    "forms": {},
+    "example": {
+      "de": "außerhalb von (+D)!",
+      "vi": "außerhalb von (+D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Hausboot, -e",
-    "meaning": "Nhà thuyền"
+    "type": "noun",
+    "meaning": "Nhà thuyền",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Hausboot, -e.",
+      "vi": "Đây là Hausboot, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Ufer, -",
-    "meaning": "Bờ, bến"
+    "type": "noun",
+    "meaning": "Bờ, bến",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Ufer, -.",
+      "vi": "Đây là Ufer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "schaukeln",
-    "meaning": "lắc lư, đung đưa"
+    "type": "other",
+    "meaning": "lắc lư, đung đưa",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'schaukeln'.",
+      "vi": "Tôi sử dụng từ 'schaukeln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "nass",
-    "meaning": "ướt"
+    "type": "other",
+    "meaning": "ướt",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'nass'.",
+      "vi": "Tôi sử dụng từ 'nass'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "spiegeln",
-    "meaning": "phản chiếu"
+    "type": "other",
+    "meaning": "phản chiếu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'spiegeln'.",
+      "vi": "Tôi sử dụng từ 'spiegeln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "einfach",
-    "meaning": "đơn giản"
+    "type": "other",
+    "meaning": "đơn giản",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'einfach'.",
+      "vi": "Tôi sử dụng từ 'einfach'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Luxus (Sg.)",
-    "meaning": "sang trọng, xa xỉ"
+    "type": "noun",
+    "meaning": "sang trọng, xa xỉ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Luxus (Sg.).",
+      "vi": "Đây là Luxus (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Gartenhaus, -ä,er",
-    "meaning": "Nhà vườn"
+    "type": "noun",
+    "meaning": "Nhà vườn",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gartenhaus, -ä,er.",
+      "vi": "Đây là Gartenhaus, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Altbau, -ten",
-    "meaning": "Nhà cũ"
+    "type": "noun",
+    "meaning": "Nhà cũ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Altbau, -ten.",
+      "vi": "Đây là Altbau, -ten."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Stockwerk, -e",
-    "meaning": "Tầng"
+    "type": "noun",
+    "meaning": "Tầng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Stockwerk, -e.",
+      "vi": "Đây là Stockwerk, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Keller, -",
-    "meaning": "Tầng hầm"
+    "type": "noun",
+    "meaning": "Tầng hầm",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Keller, -.",
+      "vi": "Đây là Keller, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Dach, -ä,er",
-    "meaning": "Mái nhà"
+    "type": "noun",
+    "meaning": "Mái nhà",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Dach, -ä,er.",
+      "vi": "Đây là Dach, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Boden, -ö",
-    "meaning": "Nền nhà, sàn nhà, mặt đất"
+    "type": "noun",
+    "meaning": "Nền nhà, sàn nhà, mặt đất",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Boden, -ö.",
+      "vi": "Đây là Boden, -ö."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Länge, -n",
-    "meaning": "Chiều dài"
+    "type": "noun",
+    "meaning": "Chiều dài",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Länge, -n.",
+      "vi": "Đây là Länge, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Breite, -n",
-    "meaning": "Chiều rộng"
+    "type": "noun",
+    "meaning": "Chiều rộng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Breite, -n.",
+      "vi": "Đây là Breite, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Höhe, -n",
-    "meaning": "Chiều cao"
+    "type": "noun",
+    "meaning": "Chiều cao",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Höhe, -n.",
+      "vi": "Đây là Höhe, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Fläche, -n",
-    "meaning": "Diện tích"
+    "type": "noun",
+    "meaning": "Diện tích",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Fläche, -n.",
+      "vi": "Đây là Fläche, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Quadratmeter, -",
-    "meaning": "Mét vuông"
+    "type": "noun",
+    "meaning": "Mét vuông",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Quadratmeter, -.",
+      "vi": "Đây là Quadratmeter, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "nebenan",
-    "meaning": "bên cạnh"
+    "type": "other",
+    "meaning": "bên cạnh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'nebenan'.",
+      "vi": "Tôi sử dụng từ 'nebenan'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "gießen",
-    "meaning": "tưới"
+    "type": "verb",
+    "meaning": "tưới",
+    "forms": {},
+    "example": {
+      "de": "Ich gießen jeden Tag.",
+      "vi": "Tôi gießen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Blumentopf -ö,e",
-    "meaning": "Chậu hoa"
+    "type": "noun",
+    "meaning": "Chậu hoa",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Blumentopf -ö,e.",
+      "vi": "Đây là Blumentopf -ö,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Briefkasten, -ä",
-    "meaning": "Hộp thư, hòm thư"
+    "type": "noun",
+    "meaning": "Hộp thư, hòm thư",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Briefkasten, -ä.",
+      "vi": "Đây là Briefkasten, -ä."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Päckchen, -",
-    "meaning": "Hộp, gói hàng"
+    "type": "noun",
+    "meaning": "Hộp, gói hàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Päckchen, -.",
+      "vi": "Đây là Päckchen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "auspacken",
-    "meaning": "mở gói, dỡ đồ"
+    "type": "verb",
+    "meaning": "mở gói, dỡ đồ",
+    "forms": {},
+    "example": {
+      "de": "Ich auspacken jeden Tag.",
+      "vi": "Tôi auspacken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Lärm (Sg.)",
-    "meaning": "Tiếng ồn, ầm ĩ"
+    "type": "noun",
+    "meaning": "Tiếng ồn, ầm ĩ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Lärm (Sg.).",
+      "vi": "Đây là Lärm (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "stinken",
-    "meaning": "hôi thối, bốc mùi"
+    "type": "verb",
+    "meaning": "hôi thối, bốc mùi",
+    "forms": {},
+    "example": {
+      "de": "Ich stinken jeden Tag.",
+      "vi": "Tôi stinken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "Verzeihung, bitte!",
-    "meaning": "Xin thứ lỗi!"
+    "type": "phrase",
+    "meaning": "Xin thứ lỗi!",
+    "forms": {},
+    "example": {
+      "de": "Verzeihung, bitte!!",
+      "vi": "Verzeihung, bitte!!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "vorkommen",
-    "meaning": "xảy ra"
+    "type": "verb",
+    "meaning": "xảy ra",
+    "forms": {},
+    "example": {
+      "de": "Ich vorkommen jeden Tag.",
+      "vi": "Tôi vorkommen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Sommerfest, -e",
-    "meaning": "Lễ hội hè"
+    "type": "noun",
+    "meaning": "Lễ hội hè",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Sommerfest, -e.",
+      "vi": "Đây là Sommerfest, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Torte, -n",
-    "meaning": "Bánh ngọt"
+    "type": "noun",
+    "meaning": "Bánh ngọt",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Torte, -n.",
+      "vi": "Đây là Torte, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Wein, -e",
-    "meaning": "Rượu Vang"
+    "type": "noun",
+    "meaning": "Rượu Vang",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wein, -e.",
+      "vi": "Đây là Wein, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Poster, -",
-    "meaning": "Áp phích, bảng quảng cáo"
+    "type": "noun",
+    "meaning": "Áp phích, bảng quảng cáo",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Poster, -.",
+      "vi": "Đây là Poster, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Lampion, -s",
-    "meaning": "Đèn lồng giấy"
+    "type": "noun",
+    "meaning": "Đèn lồng giấy",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Lampion, -s.",
+      "vi": "Đây là Lampion, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Kerze, -n",
-    "meaning": "Cây nến"
+    "type": "noun",
+    "meaning": "Cây nến",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kerze, -n.",
+      "vi": "Đây là Kerze, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Spielzeug, -e",
-    "meaning": "Đồ chơi"
+    "type": "noun",
+    "meaning": "Đồ chơi",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Spielzeug, -e.",
+      "vi": "Đây là Spielzeug, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Roller, -",
-    "meaning": "Xe máy, con lăn"
+    "type": "noun",
+    "meaning": "Xe máy, con lăn",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Roller, -.",
+      "vi": "Đây là Roller, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Kissen, -",
-    "meaning": "Gối"
+    "type": "noun",
+    "meaning": "Gối",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kissen, -.",
+      "vi": "Đây là Kissen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "legen",
-    "meaning": "đặt nằm"
+    "type": "verb",
+    "meaning": "đặt nằm",
+    "forms": {},
+    "example": {
+      "de": "Ich legen jeden Tag.",
+      "vi": "Tôi legen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "hängen",
-    "meaning": "treo"
+    "type": "verb",
+    "meaning": "treo",
+    "forms": {},
+    "example": {
+      "de": "Ich hängen jeden Tag.",
+      "vi": "Tôi hängen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "hängen",
-    "meaning": "treo"
+    "type": "verb",
+    "meaning": "treo",
+    "forms": {},
+    "example": {
+      "de": "Ich hängen jeden Tag.",
+      "vi": "Tôi hängen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Mieterin, -nen",
-    "meaning": "Người thuê nhà nữ"
+    "type": "noun",
+    "meaning": "Người thuê nhà nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mieterin, -nen.",
+      "vi": "Đây là Mieterin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Mitbewohner, -",
-    "meaning": "Bạn cùng phòng"
+    "type": "noun",
+    "meaning": "Bạn cùng phòng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Mitbewohner, -.",
+      "vi": "Đây là Mitbewohner, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "möbliert",
-    "meaning": "có đồ"
+    "type": "other",
+    "meaning": "có đồ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'möbliert'.",
+      "vi": "Tôi sử dụng từ 'möbliert'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Nebenkosten (Pl.)",
-    "meaning": "Phụ phí"
+    "type": "noun",
+    "meaning": "Phụ phí",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Nebenkosten (Pl.).",
+      "vi": "Đây là Nebenkosten (Pl.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "einziehen",
-    "meaning": "chuyển vào, dọn vào"
+    "type": "verb",
+    "meaning": "chuyển vào, dọn vào",
+    "forms": {},
+    "example": {
+      "de": "Ich einziehen jeden Tag.",
+      "vi": "Tôi einziehen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "ausziehen",
-    "meaning": "chuyển ra"
+    "type": "verb",
+    "meaning": "chuyển ra",
+    "forms": {},
+    "example": {
+      "de": "Ich ausziehen jeden Tag.",
+      "vi": "Tôi ausziehen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "gespannt",
-    "meaning": "hồi hộp, háo hức"
+    "type": "other",
+    "meaning": "hồi hộp, háo hức",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'gespannt'.",
+      "vi": "Tôi sử dụng từ 'gespannt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "auskennen",
-    "meaning": "hiểu biết, biết rõ về..."
+    "type": "verb",
+    "meaning": "hiểu biết, biết rõ về...",
+    "forms": {},
+    "example": {
+      "de": "Ich auskennen jeden Tag.",
+      "vi": "Tôi auskennen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "verirren (sich)",
-    "meaning": "đi lạc"
+    "type": "phrase",
+    "meaning": "đi lạc",
+    "forms": {},
+    "example": {
+      "de": "verirren (sich)!",
+      "vi": "verirren (sich)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "kündigen",
-    "meaning": "huỷ bỏ, sa thải, từ chức"
+    "type": "verb",
+    "meaning": "huỷ bỏ, sa thải, từ chức",
+    "forms": {},
+    "example": {
+      "de": "Ich kündigen jeden Tag.",
+      "vi": "Tôi kündigen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Haustier, e",
-    "meaning": "thú cưng, vật nuôi"
+    "type": "noun",
+    "meaning": "thú cưng, vật nuôi",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Haustier, e.",
+      "vi": "Đây là Haustier, e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Katze, -n",
-    "meaning": "con mèo"
+    "type": "noun",
+    "meaning": "con mèo",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Katze, -n.",
+      "vi": "Đây là Katze, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Kätzchen, -",
-    "meaning": "con mèo con"
+    "type": "noun",
+    "meaning": "con mèo con",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Kätzchen, -.",
+      "vi": "Đây là Kätzchen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "bellen",
-    "meaning": "sủa"
+    "type": "verb",
+    "meaning": "sủa",
+    "forms": {},
+    "example": {
+      "de": "Ich bellen jeden Tag.",
+      "vi": "Tôi bellen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Vogel, -ö",
-    "meaning": "con chim"
+    "type": "noun",
+    "meaning": "con chim",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Vogel, -ö.",
+      "vi": "Đây là Vogel, -ö."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Ratte, -n",
-    "meaning": "con chuột con"
+    "type": "noun",
+    "meaning": "con chuột con",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Ratte, -n.",
+      "vi": "Đây là Ratte, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Maus, -ä,e",
-    "meaning": "con chuột"
+    "type": "noun",
+    "meaning": "con chuột",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Maus, -ä,e.",
+      "vi": "Đây là Maus, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Hase, -n",
-    "meaning": "con thỏ"
+    "type": "noun",
+    "meaning": "con thỏ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hase, -n.",
+      "vi": "Đây là Hase, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Kuh, -ü,e",
-    "meaning": "con bò"
+    "type": "noun",
+    "meaning": "con bò",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kuh, -ü,e.",
+      "vi": "Đây là Kuh, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Schaf, -e",
-    "meaning": "con cừu"
+    "type": "noun",
+    "meaning": "con cừu",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Schaf, -e.",
+      "vi": "Đây là Schaf, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Schwein, -e",
-    "meaning": "con lợn"
+    "type": "noun",
+    "meaning": "con lợn",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Schwein, -e.",
+      "vi": "Đây là Schwein, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Bär, -en",
-    "meaning": "con gấu"
+    "type": "noun",
+    "meaning": "con gấu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Bär, -en.",
+      "vi": "Đây là Bär, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Besitzerin, -nen",
-    "meaning": "Người chủ nữ"
+    "type": "noun",
+    "meaning": "Người chủ nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Besitzerin, -nen.",
+      "vi": "Đây là Besitzerin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "das Futter (Sg.)",
-    "meaning": "đồ ăn cho vật nuôi"
+    "type": "noun",
+    "meaning": "đồ ăn cho vật nuôi",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Futter (Sg.).",
+      "vi": "Đây là Futter (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "füttern",
-    "meaning": "cho ăn"
+    "type": "other",
+    "meaning": "cho ăn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'füttern'.",
+      "vi": "Tôi sử dụng từ 'füttern'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "dick",
-    "meaning": "béo"
+    "type": "other",
+    "meaning": "béo",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'dick'.",
+      "vi": "Tôi sử dụng từ 'dick'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "dünn",
-    "meaning": "gầy"
+    "type": "other",
+    "meaning": "gầy",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'dünn'.",
+      "vi": "Tôi sử dụng từ 'dünn'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Tierarzt, -ä,e",
-    "meaning": "bác sĩ thú y"
+    "type": "noun",
+    "meaning": "bác sĩ thú y",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Tierarzt, -ä,e.",
+      "vi": "Đây là Tierarzt, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "modisch",
-    "meaning": "hiện đại"
+    "type": "other",
+    "meaning": "hiện đại",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'modisch'.",
+      "vi": "Tôi sử dụng từ 'modisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "besorgt",
-    "meaning": "lo lắng, lo âu"
+    "type": "other",
+    "meaning": "lo lắng, lo âu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'besorgt'.",
+      "vi": "Tôi sử dụng từ 'besorgt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "blitzschnell",
-    "meaning": "nhanh như chớp"
+    "type": "other",
+    "meaning": "nhanh như chớp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'blitzschnell'.",
+      "vi": "Tôi sử dụng từ 'blitzschnell'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "hergeben",
-    "meaning": "trao, đưa ra"
+    "type": "verb",
+    "meaning": "trao, đưa ra",
+    "forms": {},
+    "example": {
+      "de": "Ich hergeben jeden Tag.",
+      "vi": "Tôi hergeben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "weglaufen",
-    "meaning": "chạy đi mất"
+    "type": "verb",
+    "meaning": "chạy đi mất",
+    "forms": {},
+    "example": {
+      "de": "Ich weglaufen jeden Tag.",
+      "vi": "Tôi weglaufen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "zurücklaufen",
-    "meaning": "quay lại"
+    "type": "verb",
+    "meaning": "quay lại",
+    "forms": {},
+    "example": {
+      "de": "Ich zurücklaufen jeden Tag.",
+      "vi": "Tôi zurücklaufen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Zulassung, -en",
-    "meaning": "giấy phép"
+    "type": "noun",
+    "meaning": "giấy phép",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zulassung, -en.",
+      "vi": "Đây là Zulassung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "per",
-    "meaning": "qua, bằng"
+    "type": "other",
+    "meaning": "qua, bằng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'per'.",
+      "vi": "Tôi sử dụng từ 'per'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "intensiv",
-    "meaning": "chuyên sâu, mạnh mẽ, nhiều"
+    "type": "other",
+    "meaning": "chuyên sâu, mạnh mẽ, nhiều",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'intensiv'.",
+      "vi": "Tôi sử dụng từ 'intensiv'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "schmutzig",
-    "meaning": "bẩn"
+    "type": "other",
+    "meaning": "bẩn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'schmutzig'.",
+      "vi": "Tôi sử dụng từ 'schmutzig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "nämlich",
-    "meaning": "cụ thể là, tức là, nghĩa là"
+    "type": "other",
+    "meaning": "cụ thể là, tức là, nghĩa là",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'nämlich'.",
+      "vi": "Tôi sử dụng từ 'nämlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "nie mehr",
-    "meaning": "không bao giờ nữa"
+    "type": "phrase",
+    "meaning": "không bao giờ nữa",
+    "forms": {},
+    "example": {
+      "de": "nie mehr!",
+      "vi": "nie mehr!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "zum Teil",
-    "meaning": "một phần"
+    "type": "phrase",
+    "meaning": "một phần",
+    "forms": {},
+    "example": {
+      "de": "zum Teil!",
+      "vi": "zum Teil!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "zumindest",
-    "meaning": "ít ra, ít nhất"
+    "type": "other",
+    "meaning": "ít ra, ít nhất",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'zumindest'.",
+      "vi": "Tôi sử dụng từ 'zumindest'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "als",
-    "meaning": "như"
+    "type": "other",
+    "meaning": "như",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'als'.",
+      "vi": "Tôi sử dụng từ 'als'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Vergangenheit (Sg.)",
-    "meaning": "quá khứ"
+    "type": "noun",
+    "meaning": "quá khứ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Vergangenheit (Sg.).",
+      "vi": "Đây là Vergangenheit (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "der Stil, -e",
-    "meaning": "kiểu"
+    "type": "noun",
+    "meaning": "kiểu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Stil, -e.",
+      "vi": "Đây là Stil, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "verbessern",
-    "meaning": "củng cố, làm tốt, cải thiện"
+    "type": "other",
+    "meaning": "củng cố, làm tốt, cải thiện",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'verbessern'.",
+      "vi": "Tôi sử dụng từ 'verbessern'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 10",
     "word": "die Veränderung, -en",
-    "meaning": "sự thay đổi"
+    "type": "noun",
+    "meaning": "sự thay đổi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Veränderung, -en.",
+      "vi": "Đây là Veränderung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "vergehen",
-    "meaning": "trôi qua, qua"
+    "type": "verb",
+    "meaning": "trôi qua, qua",
+    "forms": {},
+    "example": {
+      "de": "Ich vergehen jeden Tag.",
+      "vi": "Tôi vergehen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Zeit vergeht schnell",
-    "meaning": "thời gian trôi qua nhanh"
+    "type": "noun",
+    "meaning": "thời gian trôi qua nhanh",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zeit vergeht schnell.",
+      "vi": "Đây là Zeit vergeht schnell."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Ehe, -n",
-    "meaning": "hôn nhân"
+    "type": "noun",
+    "meaning": "hôn nhân",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Ehe, -n.",
+      "vi": "Đây là Ehe, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Hausfrau, -en",
-    "meaning": "nội trợ nữ"
+    "type": "noun",
+    "meaning": "nội trợ nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hausfrau, -en.",
+      "vi": "Đây là Hausfrau, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Hausmann, -ä,er",
-    "meaning": "nội trợ nam"
+    "type": "noun",
+    "meaning": "nội trợ nam",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hausmann, -ä,er.",
+      "vi": "Đây là Hausmann, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "backen",
-    "meaning": "nướng"
+    "type": "verb",
+    "meaning": "nướng",
+    "forms": {},
+    "example": {
+      "de": "Ich backen jeden Tag.",
+      "vi": "Tôi backen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "einen Kuchen backen",
-    "meaning": "nướng bánh"
+    "type": "verb",
+    "meaning": "nướng bánh",
+    "forms": {},
+    "example": {
+      "de": "Ich einen Kuchen backen jeden Tag.",
+      "vi": "Tôi einen Kuchen backen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "bauen",
-    "meaning": "xây dựng, lắp đặt"
+    "type": "verb",
+    "meaning": "xây dựng, lắp đặt",
+    "forms": {},
+    "example": {
+      "de": "Ich bauen jeden Tag.",
+      "vi": "Tôi bauen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "einrichten",
-    "meaning": "trang trí, bố trí"
+    "type": "verb",
+    "meaning": "trang trí, bố trí",
+    "forms": {},
+    "example": {
+      "de": "Ich einrichten jeden Tag.",
+      "vi": "Tôi einrichten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "sparen",
-    "meaning": "tiết kiệm"
+    "type": "verb",
+    "meaning": "tiết kiệm",
+    "forms": {},
+    "example": {
+      "de": "Ich sparen jeden Tag.",
+      "vi": "Tôi sparen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "verletzen",
-    "meaning": "làm bị thương"
+    "type": "verb",
+    "meaning": "làm bị thương",
+    "forms": {},
+    "example": {
+      "de": "Ich verletzen jeden Tag.",
+      "vi": "Tôi verletzen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "verreisen",
-    "meaning": "đi du lịch"
+    "type": "verb",
+    "meaning": "đi du lịch",
+    "forms": {},
+    "example": {
+      "de": "Ich verreisen jeden Tag.",
+      "vi": "Tôi verreisen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "anstellen",
-    "meaning": "dùng, sử dụng"
+    "type": "verb",
+    "meaning": "dùng, sử dụng",
+    "forms": {},
+    "example": {
+      "de": "Ich anstellen jeden Tag.",
+      "vi": "Tôi anstellen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "entlassen",
-    "meaning": "bỏ, đuổi, sa thải"
+    "type": "verb",
+    "meaning": "bỏ, đuổi, sa thải",
+    "forms": {},
+    "example": {
+      "de": "Ich entlassen jeden Tag.",
+      "vi": "Tôi entlassen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "behalten",
-    "meaning": "giữ"
+    "type": "verb",
+    "meaning": "giữ",
+    "forms": {},
+    "example": {
+      "de": "Ich behalten jeden Tag.",
+      "vi": "Tôi behalten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Werktag, -e",
-    "meaning": "việc"
+    "type": "noun",
+    "meaning": "việc",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Werktag, -e.",
+      "vi": "Đây là Werktag, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Export, -e",
-    "meaning": "xuất khẩu"
+    "type": "noun",
+    "meaning": "xuất khẩu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Export, -e.",
+      "vi": "Đây là Export, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Import, -e",
-    "meaning": "nhập khẩu"
+    "type": "noun",
+    "meaning": "nhập khẩu",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Import, -e.",
+      "vi": "Đây là Import, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Frist,-en",
-    "meaning": "hạn"
+    "type": "noun",
+    "meaning": "hạn",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Frist,-en.",
+      "vi": "Đây là Frist,-en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "ich würde gern",
-    "meaning": "tôi muốn"
+    "type": "phrase",
+    "meaning": "tôi muốn",
+    "forms": {},
+    "example": {
+      "de": "ich würde gern!",
+      "vi": "ich würde gern!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "ausschalten",
-    "meaning": "tắt"
+    "type": "verb",
+    "meaning": "tắt",
+    "forms": {},
+    "example": {
+      "de": "Ich ausschalten jeden Tag.",
+      "vi": "Tôi ausschalten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "klingeln",
-    "meaning": "reo"
+    "type": "other",
+    "meaning": "reo",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'klingeln'.",
+      "vi": "Tôi sử dụng từ 'klingeln'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "ständig",
-    "meaning": "luôn luôn"
+    "type": "other",
+    "meaning": "luôn luôn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'ständig'.",
+      "vi": "Tôi sử dụng từ 'ständig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "schimpfen",
-    "meaning": "chửi bới, mắng mỏ"
+    "type": "verb",
+    "meaning": "chửi bới, mắng mỏ",
+    "forms": {},
+    "example": {
+      "de": "Ich schimpfen jeden Tag.",
+      "vi": "Tôi schimpfen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "verbringen (mit + D)",
-    "meaning": "dành thời gian"
+    "type": "phrase",
+    "meaning": "dành thời gian",
+    "forms": {},
+    "example": {
+      "de": "verbringen (mit + D)!",
+      "vi": "verbringen (mit + D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "an deiner Stelle",
-    "meaning": "nếu ở vị trí của bạn"
+    "type": "phrase",
+    "meaning": "nếu ở vị trí của bạn",
+    "forms": {},
+    "example": {
+      "de": "an deiner Stelle!",
+      "vi": "an deiner Stelle!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "meiner Meinung nach",
-    "meaning": "theo tôi nghĩ thì"
+    "type": "phrase",
+    "meaning": "theo tôi nghĩ thì",
+    "forms": {},
+    "example": {
+      "de": "meiner Meinung nach!",
+      "vi": "meiner Meinung nach!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "interessieren (sich) (für + A)",
-    "meaning": "quan tâm đến"
+    "type": "phrase",
+    "meaning": "quan tâm đến",
+    "forms": {},
+    "example": {
+      "de": "interessieren (sich) (für + A)!",
+      "vi": "interessieren (sich) (für + A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "wofür interessierst du dich?",
-    "meaning": "quan tâm đến ai"
+    "type": "phrase",
+    "meaning": "quan tâm đến ai",
+    "forms": {},
+    "example": {
+      "de": "wofür interessierst du dich?!",
+      "vi": "wofür interessierst du dich?!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "vorbereiten (sich) (auf + A)",
-    "meaning": "chuẩn bị"
+    "type": "phrase",
+    "meaning": "chuẩn bị",
+    "forms": {},
+    "example": {
+      "de": "vorbereiten (sich) (auf + A)!",
+      "vi": "vorbereiten (sich) (auf + A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "kümmern (sich) (um + A)",
-    "meaning": "chăm sóc ai"
+    "type": "phrase",
+    "meaning": "chăm sóc ai",
+    "forms": {},
+    "example": {
+      "de": "kümmern (sich) (um + A)!",
+      "vi": "kümmern (sich) (um + A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Worum kümmert sich Linda?",
-    "meaning": "chăm sóc, lo lắng cho linda"
+    "type": "phrase",
+    "meaning": "chăm sóc, lo lắng cho linda",
+    "forms": {},
+    "example": {
+      "de": "Worum kümmert sich Linda?!",
+      "vi": "Worum kümmert sich Linda?!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "unterhalten (sich) (mit +D)",
-    "meaning": "nói chuyện với"
+    "type": "phrase",
+    "meaning": "nói chuyện với",
+    "forms": {},
+    "example": {
+      "de": "unterhalten (sich) (mit +D)!",
+      "vi": "unterhalten (sich) (mit +D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Mit wem hast du dich so lang unterhalten?",
-    "meaning": "Bạn nói chuyện với ai lâu vậy"
+    "type": "phrase",
+    "meaning": "Bạn nói chuyện với ai lâu vậy",
+    "forms": {},
+    "example": {
+      "de": "Mit wem hast du dich so lang unterhalten?!",
+      "vi": "Mit wem hast du dich so lang unterhalten?!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "erinnern (sich) (an +A)",
-    "meaning": "nhớ đến, nhớ về"
+    "type": "phrase",
+    "meaning": "nhớ đến, nhớ về",
+    "forms": {},
+    "example": {
+      "de": "erinnern (sich) (an +A)!",
+      "vi": "erinnern (sich) (an +A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "ich erinnere mich noch an den letzten Ausflug.",
-    "meaning": "Tôi còn nhớ về chuyến du lịch cuối"
+    "type": "phrase",
+    "meaning": "Tôi còn nhớ về chuyến du lịch cuối",
+    "forms": {},
+    "example": {
+      "de": "ich erinnere mich noch an den letzten Ausflug.!",
+      "vi": "ich erinnere mich noch an den letzten Ausflug.!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Alles bestens.",
-    "meaning": "tất cả đều ổn"
+    "type": "phrase",
+    "meaning": "tất cả đều ổn",
+    "forms": {},
+    "example": {
+      "de": "Alles bestens.!",
+      "vi": "Alles bestens.!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Feuer, -",
-    "meaning": "ngọn lửa"
+    "type": "noun",
+    "meaning": "ngọn lửa",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Feuer, -.",
+      "vi": "Đây là Feuer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Gas, -e",
-    "meaning": "ga"
+    "type": "noun",
+    "meaning": "ga",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gas, -e.",
+      "vi": "Đây là Gas, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Heizung, -en",
-    "meaning": "lò sưởi"
+    "type": "noun",
+    "meaning": "lò sưởi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Heizung, -en.",
+      "vi": "Đây là Heizung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "heizen",
-    "meaning": "sưởi"
+    "type": "verb",
+    "meaning": "sưởi",
+    "forms": {},
+    "example": {
+      "de": "Ich heizen jeden Tag.",
+      "vi": "Tôi heizen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Strom (Sg.)",
-    "meaning": "điện"
+    "type": "noun",
+    "meaning": "điện",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Strom (Sg.).",
+      "vi": "Đây là Strom (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Hektik (Sg.)",
-    "meaning": "vội vã"
+    "type": "noun",
+    "meaning": "vội vã",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hektik (Sg.).",
+      "vi": "Đây là Hektik (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Helfer, -",
-    "meaning": "người giúp đỡ"
+    "type": "noun",
+    "meaning": "người giúp đỡ",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Helfer, -.",
+      "vi": "Đây là Helfer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Helferin, -nen",
-    "meaning": "người giúp đỡ nữ"
+    "type": "noun",
+    "meaning": "người giúp đỡ nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Helferin, -nen.",
+      "vi": "Đây là Helferin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Notfall, -ä,e",
-    "meaning": "trường hợp khẩn cấp"
+    "type": "noun",
+    "meaning": "trường hợp khẩn cấp",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Notfall, -ä,e.",
+      "vi": "Đây là Notfall, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "bei einem Notfall rufen wir  die Polizei",
-    "meaning": "trong trường hợp khẩn cấp thì gọi cảnh sát"
+    "type": "phrase",
+    "meaning": "trong trường hợp khẩn cấp thì gọi cảnh sát",
+    "forms": {},
+    "example": {
+      "de": "bei einem Notfall rufen wir  die Polizei!",
+      "vi": "bei einem Notfall rufen wir  die Polizei!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Unterkunft, -ü,e",
-    "meaning": "ở"
+    "type": "noun",
+    "meaning": "ở",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Unterkunft, -ü,e.",
+      "vi": "Đây là Unterkunft, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "bieten",
-    "meaning": "mời"
+    "type": "verb",
+    "meaning": "mời",
+    "forms": {},
+    "example": {
+      "de": "Ich bieten jeden Tag.",
+      "vi": "Tôi bieten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Einkaufszentrum, zentren",
-    "meaning": "trung tâm thương mại"
+    "type": "noun",
+    "meaning": "trung tâm thương mại",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Einkaufszentrum, zentren.",
+      "vi": "Đây là Einkaufszentrum, zentren."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "besitzen",
-    "meaning": "sở hữu"
+    "type": "verb",
+    "meaning": "sở hữu",
+    "forms": {},
+    "example": {
+      "de": "Ich besitzen jeden Tag.",
+      "vi": "Tôi besitzen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "produzieren",
-    "meaning": "sản xuất"
+    "type": "verb",
+    "meaning": "sản xuất",
+    "forms": {},
+    "example": {
+      "de": "Ich produzieren jeden Tag.",
+      "vi": "Tôi produzieren mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "träumen (von +D)",
-    "meaning": "mơ về"
+    "type": "phrase",
+    "meaning": "mơ về",
+    "forms": {},
+    "example": {
+      "de": "träumen (von +D)!",
+      "vi": "träumen (von +D)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "verzichten (auf + A)",
-    "meaning": "từ chối, từ bỏ"
+    "type": "phrase",
+    "meaning": "từ chối, từ bỏ",
+    "forms": {},
+    "example": {
+      "de": "verzichten (auf + A)!",
+      "vi": "verzichten (auf + A)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "altmodisch",
-    "meaning": "cổ hủ"
+    "type": "other",
+    "meaning": "cổ hủ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'altmodisch'.",
+      "vi": "Tôi sử dụng từ 'altmodisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "damals",
-    "meaning": "hồi ấy, ngày xưa"
+    "type": "other",
+    "meaning": "hồi ấy, ngày xưa",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'damals'.",
+      "vi": "Tôi sử dụng từ 'damals'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Sprichwort, -ö,er",
-    "meaning": "câu châm ngôn"
+    "type": "noun",
+    "meaning": "câu châm ngôn",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Sprichwort, -ö,er.",
+      "vi": "Đây là Sprichwort, -ö,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Erklärung, -en",
-    "meaning": "lời giải thích"
+    "type": "noun",
+    "meaning": "lời giải thích",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Erklärung, -en.",
+      "vi": "Đây là Erklärung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Gold (Sg.)",
-    "meaning": "vàng"
+    "type": "noun",
+    "meaning": "vàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Gold (Sg.).",
+      "vi": "Đây là Gold (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Rat (Sg.)",
-    "meaning": "gợi ý, lời khuyên"
+    "type": "noun",
+    "meaning": "gợi ý, lời khuyên",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Rat (Sg.).",
+      "vi": "Đây là Rat (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "heilen",
-    "meaning": "chữa lành, làm lành"
+    "type": "verb",
+    "meaning": "chữa lành, làm lành",
+    "forms": {},
+    "example": {
+      "de": "Ich heilen jeden Tag.",
+      "vi": "Tôi heilen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Acht geben",
-    "meaning": "chú ý, cẩn thận"
+    "type": "verb",
+    "meaning": "chú ý, cẩn thận",
+    "forms": {},
+    "example": {
+      "de": "Ich Acht geben jeden Tag.",
+      "vi": "Tôi Acht geben mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "hereinkommen",
-    "meaning": "đi vào"
+    "type": "verb",
+    "meaning": "đi vào",
+    "forms": {},
+    "example": {
+      "de": "Ich hereinkommen jeden Tag.",
+      "vi": "Tôi hereinkommen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "brechen",
-    "meaning": "vỡ, gẫy"
+    "type": "verb",
+    "meaning": "vỡ, gẫy",
+    "forms": {},
+    "example": {
+      "de": "Ich brechen jeden Tag.",
+      "vi": "Tôi brechen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "die Lücke,-n",
-    "meaning": "kẽ hở, khe"
+    "type": "noun",
+    "meaning": "kẽ hở, khe",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Lücke,-n.",
+      "vi": "Đây là Lücke,-n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "das Mitleid (Sg.)",
-    "meaning": "thương hại"
+    "type": "noun",
+    "meaning": "thương hại",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Mitleid (Sg.).",
+      "vi": "Đây là Mitleid (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Du Armer!/ Du Arme!",
-    "meaning": "khổ thân"
+    "type": "phrase",
+    "meaning": "khổ thân",
+    "forms": {},
+    "example": {
+      "de": "Du Armer!/ Du Arme!!",
+      "vi": "Du Armer!/ Du Arme!!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "besorgen",
-    "meaning": "mua sắm"
+    "type": "verb",
+    "meaning": "mua sắm",
+    "forms": {},
+    "example": {
+      "de": "Ich besorgen jeden Tag.",
+      "vi": "Tôi besorgen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "der Alkohol (Sg.)",
-    "meaning": "đồ uống có cồn"
+    "type": "noun",
+    "meaning": "đồ uống có cồn",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Alkohol (Sg.).",
+      "vi": "Đây là Alkohol (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "betrunken",
-    "meaning": "say rượu"
+    "type": "verb",
+    "meaning": "say rượu",
+    "forms": {},
+    "example": {
+      "de": "Ich betrunken jeden Tag.",
+      "vi": "Tôi betrunken mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "bluten",
-    "meaning": "chảy máu"
+    "type": "verb",
+    "meaning": "chảy máu",
+    "forms": {},
+    "example": {
+      "de": "Ich bluten jeden Tag.",
+      "vi": "Tôi bluten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "effektiv",
-    "meaning": "hiệu quả"
+    "type": "other",
+    "meaning": "hiệu quả",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'effektiv'.",
+      "vi": "Tôi sử dụng từ 'effektiv'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "kühl",
-    "meaning": "mát , se lạnh"
+    "type": "other",
+    "meaning": "mát , se lạnh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'kühl'.",
+      "vi": "Tôi sử dụng từ 'kühl'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "niedrig",
-    "meaning": "thấp"
+    "type": "other",
+    "meaning": "thấp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'niedrig'.",
+      "vi": "Tôi sử dụng từ 'niedrig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "reich",
-    "meaning": "giàu"
+    "type": "other",
+    "meaning": "giàu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'reich'.",
+      "vi": "Tôi sử dụng từ 'reich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "meist",
-    "meaning": "hầu như, phần lớn"
+    "type": "other",
+    "meaning": "hầu như, phần lớn",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'meist'.",
+      "vi": "Tôi sử dụng từ 'meist'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "vor allem (v.a.)",
-    "meaning": "trước tiên, trước hết"
+    "type": "phrase",
+    "meaning": "trước tiên, trước hết",
+    "forms": {},
+    "example": {
+      "de": "vor allem (v.a.)!",
+      "vi": "vor allem (v.a.)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 11",
     "word": "Papa",
-    "meaning": "bố"
+    "type": "other",
+    "meaning": "bố",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'Papa'.",
+      "vi": "Tôi sử dụng từ 'Papa'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Unterhaltung (Sg.)",
-    "meaning": "trò chuyện"
+    "type": "noun",
+    "meaning": "trò chuyện",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Unterhaltung (Sg.).",
+      "vi": "Đây là Unterhaltung (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Gesellschaff, -en",
-    "meaning": "cộng đồng xã hội"
+    "type": "noun",
+    "meaning": "cộng đồng xã hội",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gesellschaff, -en.",
+      "vi": "Đây là Gesellschaff, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Werk, -e",
-    "meaning": "tác phẩm"
+    "type": "noun",
+    "meaning": "tác phẩm",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Werk, -e.",
+      "vi": "Đây là Werk, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Schloss, -ö,er",
-    "meaning": "lâu đài"
+    "type": "noun",
+    "meaning": "lâu đài",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Schloss, -ö,er.",
+      "vi": "Đây là Schloss, -ö,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der König, -e",
-    "meaning": "nhà vua"
+    "type": "noun",
+    "meaning": "nhà vua",
+    "forms": {},
+    "example": {
+      "de": "Das ist der König, -e.",
+      "vi": "Đây là König, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Königin, -nen",
-    "meaning": "nữ hoàng"
+    "type": "noun",
+    "meaning": "nữ hoàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Königin, -nen.",
+      "vi": "Đây là Königin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Führung, -en",
-    "meaning": "hướng dẫn thăm quan"
+    "type": "noun",
+    "meaning": "hướng dẫn thăm quan",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Führung, -en.",
+      "vi": "Đây là Führung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Roman, -e",
-    "meaning": "tiểu thuyết"
+    "type": "noun",
+    "meaning": "tiểu thuyết",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Roman, -e.",
+      "vi": "Đây là Roman, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Besteller, -",
-    "meaning": "bán chạy nhất"
+    "type": "noun",
+    "meaning": "bán chạy nhất",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Besteller, -.",
+      "vi": "Đây là Besteller, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "jährlich",
-    "meaning": "hàng năm"
+    "type": "other",
+    "meaning": "hàng năm",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'jährlich'.",
+      "vi": "Tôi sử dụng từ 'jährlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Verfilmung, -en",
-    "meaning": "đóng thành phim"
+    "type": "noun",
+    "meaning": "đóng thành phim",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Verfilmung, -en.",
+      "vi": "Đây là Verfilmung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "meist-",
-    "meaning": "hầu như, nhiều"
+    "type": "other",
+    "meaning": "hầu như, nhiều",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'meist-'.",
+      "vi": "Tôi sử dụng từ 'meist-'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Festival, -s",
-    "meaning": "lễ hội"
+    "type": "noun",
+    "meaning": "lễ hội",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Festival, -s.",
+      "vi": "Đây là Festival, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "live",
-    "meaning": "trực tiếp"
+    "type": "other",
+    "meaning": "trực tiếp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'live'.",
+      "vi": "Tôi sử dụng từ 'live'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Hit, -s",
-    "meaning": "đánh, vật lộn"
+    "type": "noun",
+    "meaning": "đánh, vật lộn",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hit, -s.",
+      "vi": "Đây là Hit, -s."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Musikstil, -e",
-    "meaning": "xu hướng thể loại âm nhạc"
+    "type": "noun",
+    "meaning": "xu hướng thể loại âm nhạc",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Musikstil, -e.",
+      "vi": "Đây là Musikstil, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "Pop",
-    "meaning": "nhạc pop"
+    "type": "other",
+    "meaning": "nhạc pop",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'Pop'.",
+      "vi": "Tôi sử dụng từ 'Pop'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "Rap",
-    "meaning": "nhạc rap"
+    "type": "other",
+    "meaning": "nhạc rap",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'Rap'.",
+      "vi": "Tôi sử dụng từ 'Rap'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "Rock",
-    "meaning": "nhạc rock"
+    "type": "other",
+    "meaning": "nhạc rock",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'Rock'.",
+      "vi": "Tôi sử dụng từ 'Rock'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "rockig",
-    "meaning": "nhạc rock"
+    "type": "other",
+    "meaning": "nhạc rock",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'rockig'.",
+      "vi": "Tôi sử dụng từ 'rockig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "Elektro",
-    "meaning": "nhạc điện tử"
+    "type": "other",
+    "meaning": "nhạc điện tử",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'Elektro'.",
+      "vi": "Tôi sử dụng từ 'Elektro'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "melodisch",
-    "meaning": "giai điệu"
+    "type": "other",
+    "meaning": "giai điệu",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'melodisch'.",
+      "vi": "Tôi sử dụng từ 'melodisch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Stimmung, -en",
-    "meaning": "bầu không khí"
+    "type": "noun",
+    "meaning": "bầu không khí",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Stimmung, -en.",
+      "vi": "Đây là Stimmung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Campingplatz, -ä,e",
-    "meaning": "nơi cắm trại"
+    "type": "noun",
+    "meaning": "nơi cắm trại",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Campingplatz, -ä,e.",
+      "vi": "Đây là Campingplatz, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Übernachtung, -en",
-    "meaning": "ngủ qua đêm"
+    "type": "noun",
+    "meaning": "ngủ qua đêm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Übernachtung, -en.",
+      "vi": "Đây là Übernachtung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Verpflegung, -en",
-    "meaning": "đồ ăn uống"
+    "type": "noun",
+    "meaning": "đồ ăn uống",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Verpflegung, -en.",
+      "vi": "Đây là Verpflegung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Rucksack, -ä,e",
-    "meaning": "balo"
+    "type": "noun",
+    "meaning": "balo",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Rucksack, -ä,e.",
+      "vi": "Đây là Rucksack, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Kauf, -ä,e",
-    "meaning": "mua"
+    "type": "noun",
+    "meaning": "mua",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Kauf, -ä,e.",
+      "vi": "Đây là Kauf, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Stehplatz, -ä,e",
-    "meaning": "chỗ đứng"
+    "type": "noun",
+    "meaning": "chỗ đứng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Stehplatz, -ä,e.",
+      "vi": "Đây là Stehplatz, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Sitzplatz, -ä,e",
-    "meaning": "chỗ ngồi"
+    "type": "noun",
+    "meaning": "chỗ ngồi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Sitzplatz, -ä,e.",
+      "vi": "Đây là Sitzplatz, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Reihe, -n",
-    "meaning": "hàng lối, dãy"
+    "type": "noun",
+    "meaning": "hàng lối, dãy",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Reihe, -n.",
+      "vi": "Đây là Reihe, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Warenkorb, -n",
-    "meaning": "giỏ hàng"
+    "type": "noun",
+    "meaning": "giỏ hàng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Warenkorb, -n.",
+      "vi": "Đây là Warenkorb, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "netto",
-    "meaning": "khối lượng tịnh"
+    "type": "other",
+    "meaning": "khối lượng tịnh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'netto'.",
+      "vi": "Tôi sử dụng từ 'netto'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Mehrwertsteuer (Sg.)",
-    "meaning": "thuế"
+    "type": "noun",
+    "meaning": "thuế",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Mehrwertsteuer (Sg.).",
+      "vi": "Đây là Mehrwertsteuer (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "zuzüglich (zzzgl.)",
-    "meaning": "thêm, cộng vào, cộng thêm"
+    "type": "phrase",
+    "meaning": "thêm, cộng vào, cộng thêm",
+    "forms": {},
+    "example": {
+      "de": "zuzüglich (zzzgl.)!",
+      "vi": "zuzüglich (zzzgl.)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "inklusive (inkl.)",
-    "meaning": "thêm vào"
+    "type": "phrase",
+    "meaning": "thêm vào",
+    "forms": {},
+    "example": {
+      "de": "inklusive (inkl.)!",
+      "vi": "inklusive (inkl.)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Vorwahl, -en",
-    "meaning": "số mã vùng"
+    "type": "noun",
+    "meaning": "số mã vùng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Vorwahl, -en.",
+      "vi": "Đây là Vorwahl, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "Mobil- (die Mobilnummer)",
-    "meaning": "di động"
+    "type": "phrase",
+    "meaning": "di động",
+    "forms": {},
+    "example": {
+      "de": "Mobil- (die Mobilnummer)!",
+      "vi": "Mobil- (die Mobilnummer)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Versand (Sg.)",
-    "meaning": "gửi"
+    "type": "noun",
+    "meaning": "gửi",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Versand (Sg.).",
+      "vi": "Đây là Versand (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Versandkosten (Pl.)",
-    "meaning": "phí gửi"
+    "type": "noun",
+    "meaning": "phí gửi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Versandkosten (Pl.).",
+      "vi": "Đây là Versandkosten (Pl.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Gebühr, -en",
-    "meaning": "phí gửi"
+    "type": "noun",
+    "meaning": "phí gửi",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gebühr, -en.",
+      "vi": "Đây là Gebühr, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Zahlungsart, -en",
-    "meaning": "phương thức thanh toán"
+    "type": "noun",
+    "meaning": "phương thức thanh toán",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Zahlungsart, -en.",
+      "vi": "Đây là Zahlungsart, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Überweisung, -en",
-    "meaning": "chuyển khoản"
+    "type": "noun",
+    "meaning": "chuyển khoản",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Überweisung, -en.",
+      "vi": "Đây là Überweisung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Meldung, -en",
-    "meaning": "báo cáo"
+    "type": "noun",
+    "meaning": "báo cáo",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Meldung, -en.",
+      "vi": "Đây là Meldung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der/die Prominete, -n",
-    "meaning": "người nổi tiếng"
+    "type": "phrase",
+    "meaning": "người nổi tiếng",
+    "forms": {},
+    "example": {
+      "de": "der/die Prominete, -n!",
+      "vi": "der/die Prominete, -n!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Nachrichtensprecher, -",
-    "meaning": "phát ngôn viên"
+    "type": "noun",
+    "meaning": "phát ngôn viên",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Nachrichtensprecher, -.",
+      "vi": "Đây là Nachrichtensprecher, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Nachrichtensprecherin, -nen",
-    "meaning": "phát ngôn viên nữ"
+    "type": "noun",
+    "meaning": "phát ngôn viên nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Nachrichtensprecherin, -nen.",
+      "vi": "Đây là Nachrichtensprecherin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Hörer, -",
-    "meaning": "thính giả"
+    "type": "noun",
+    "meaning": "thính giả",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hörer, -.",
+      "vi": "Đây là Hörer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Hörerin, -nen",
-    "meaning": "thính giả nữ"
+    "type": "noun",
+    "meaning": "thính giả nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hörerin, -nen.",
+      "vi": "Đây là Hörerin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Sendung, -en",
-    "meaning": "chương trình"
+    "type": "noun",
+    "meaning": "chương trình",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Sendung, -en.",
+      "vi": "Đây là Sendung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Einsatz, -ä,e",
-    "meaning": "nỗ lực, cố gắng"
+    "type": "noun",
+    "meaning": "nỗ lực, cố gắng",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Einsatz, -ä,e.",
+      "vi": "Đây là Einsatz, -ä,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Stimme, -n",
-    "meaning": "giọng nói"
+    "type": "noun",
+    "meaning": "giọng nói",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Stimme, -n.",
+      "vi": "Đây là Stimme, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Stille (Sg.)",
-    "meaning": "sự yên tĩnh, yên lặng"
+    "type": "noun",
+    "meaning": "sự yên tĩnh, yên lặng",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Stille (Sg.).",
+      "vi": "Đây là Stille (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "verschlafen",
-    "meaning": "ngủ nướng"
+    "type": "verb",
+    "meaning": "ngủ nướng",
+    "forms": {},
+    "example": {
+      "de": "Ich verschlafen jeden Tag.",
+      "vi": "Tôi verschlafen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Sammler, -",
-    "meaning": "nhà sưu tầm"
+    "type": "noun",
+    "meaning": "nhà sưu tầm",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Sammler, -.",
+      "vi": "Đây là Sammler, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Sammlerin, -nen",
-    "meaning": "nhà sưu tầm nữ"
+    "type": "noun",
+    "meaning": "nhà sưu tầm nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Sammlerin, -nen.",
+      "vi": "Đây là Sammlerin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Schnäppchen, -",
-    "meaning": "giá rẻ"
+    "type": "noun",
+    "meaning": "giá rẻ",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Schnäppchen, -.",
+      "vi": "Đây là Schnäppchen, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Wert, -e",
-    "meaning": "giá trị"
+    "type": "noun",
+    "meaning": "giá trị",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wert, -e.",
+      "vi": "Đây là Wert, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "wertvoll",
-    "meaning": "có giá trị"
+    "type": "other",
+    "meaning": "có giá trị",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'wertvoll'.",
+      "vi": "Tôi sử dụng từ 'wertvoll'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "befreundet",
-    "meaning": "làm bạn với"
+    "type": "other",
+    "meaning": "làm bạn với",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'befreundet'.",
+      "vi": "Tôi sử dụng từ 'befreundet'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "bestätigen",
-    "meaning": "xác nhận"
+    "type": "verb",
+    "meaning": "xác nhận",
+    "forms": {},
+    "example": {
+      "de": "Ich bestätigen jeden Tag.",
+      "vi": "Tôi bestätigen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Quiz, -ze",
-    "meaning": "giải đó"
+    "type": "noun",
+    "meaning": "giải đó",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Quiz, -ze.",
+      "vi": "Đây là Quiz, -ze."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Malerei (Sg.)",
-    "meaning": "họa sĩ"
+    "type": "noun",
+    "meaning": "họa sĩ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Malerei (Sg.).",
+      "vi": "Đây là Malerei (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Titel, -",
-    "meaning": "tiêu đề"
+    "type": "noun",
+    "meaning": "tiêu đề",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Titel, -.",
+      "vi": "Đây là Titel, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Bedeutung, -en",
-    "meaning": "nghĩa"
+    "type": "noun",
+    "meaning": "nghĩa",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Bedeutung, -en.",
+      "vi": "Đây là Bedeutung, -en."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Ausblick, -e",
-    "meaning": "tầm nhìn"
+    "type": "noun",
+    "meaning": "tầm nhìn",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Ausblick, -e.",
+      "vi": "Đây là Ausblick, -e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "das Blatt, -ä,er",
-    "meaning": "giấy"
+    "type": "noun",
+    "meaning": "giấy",
+    "forms": {},
+    "example": {
+      "de": "Das ist das Blatt, -ä,er.",
+      "vi": "Đây là Blatt, -ä,er."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "hübsch",
-    "meaning": "xinh"
+    "type": "other",
+    "meaning": "xinh",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'hübsch'.",
+      "vi": "Tôi sử dụng từ 'hübsch'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "verrückt",
-    "meaning": "điên rồ"
+    "type": "other",
+    "meaning": "điên rồ",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'verrückt'.",
+      "vi": "Tôi sử dụng từ 'verrückt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "uninteressant",
-    "meaning": "không thú vị"
+    "type": "other",
+    "meaning": "không thú vị",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'uninteressant'.",
+      "vi": "Tôi sử dụng từ 'uninteressant'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "abstrakt",
-    "meaning": "trừu tượng"
+    "type": "other",
+    "meaning": "trừu tượng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'abstrakt'.",
+      "vi": "Tôi sử dụng từ 'abstrakt'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Vordegrund, -ü,e",
-    "meaning": "chính"
+    "type": "noun",
+    "meaning": "chính",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Vordegrund, -ü,e.",
+      "vi": "Đây là Vordegrund, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "davor",
-    "meaning": "đằng trước"
+    "type": "other",
+    "meaning": "đằng trước",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'davor'.",
+      "vi": "Tôi sử dụng từ 'davor'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Hintergrund, -ü,e",
-    "meaning": "bối cảnh"
+    "type": "noun",
+    "meaning": "bối cảnh",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Hintergrund, -ü,e.",
+      "vi": "Đây là Hintergrund, -ü,e."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "dahinter",
-    "meaning": "đằng sau"
+    "type": "other",
+    "meaning": "đằng sau",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'dahinter'.",
+      "vi": "Tôi sử dụng từ 'dahinter'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Stelle, -n",
-    "meaning": "địa điểm, vị trí"
+    "type": "noun",
+    "meaning": "địa điểm, vị trí",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Stelle, -n.",
+      "vi": "Đây là Stelle, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "hell-",
-    "meaning": "sáng"
+    "type": "other",
+    "meaning": "sáng",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'hell-'.",
+      "vi": "Tôi sử dụng từ 'hell-'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "dunkel-",
-    "meaning": "tối"
+    "type": "other",
+    "meaning": "tối",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'dunkel-'.",
+      "vi": "Tôi sử dụng từ 'dunkel-'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "abmalen",
-    "meaning": "vẽ lại"
+    "type": "verb",
+    "meaning": "vẽ lại",
+    "forms": {},
+    "example": {
+      "de": "Ich abmalen jeden Tag.",
+      "vi": "Tôi abmalen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Kriminalität (Sg.)",
-    "meaning": "tội phạm"
+    "type": "noun",
+    "meaning": "tội phạm",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Kriminalität (Sg.).",
+      "vi": "Đây là Kriminalität (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Gewalt (Sg.)",
-    "meaning": "bạo lực"
+    "type": "noun",
+    "meaning": "bạo lực",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Gewalt (Sg.).",
+      "vi": "Đây là Gewalt (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "wild",
-    "meaning": "hoang dã"
+    "type": "other",
+    "meaning": "hoang dã",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'wild'.",
+      "vi": "Tôi sử dụng từ 'wild'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "gut/schlecht gelaunt sein",
-    "meaning": "vui vẻ"
+    "type": "phrase",
+    "meaning": "vui vẻ",
+    "forms": {},
+    "example": {
+      "de": "gut/schlecht gelaunt sein!",
+      "vi": "gut/schlecht gelaunt sein!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "-järig",
-    "meaning": "năm"
+    "type": "other",
+    "meaning": "năm",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort '-järig'.",
+      "vi": "Tôi sử dụng từ '-järig'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "knapp",
-    "meaning": "suýt, chật hẹp"
+    "type": "other",
+    "meaning": "suýt, chật hẹp",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'knapp'.",
+      "vi": "Tôi sử dụng từ 'knapp'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "unendlich",
-    "meaning": "vô tận"
+    "type": "other",
+    "meaning": "vô tận",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'unendlich'.",
+      "vi": "Tôi sử dụng từ 'unendlich'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "abschließend",
-    "meaning": "kết thúc"
+    "type": "other",
+    "meaning": "kết thúc",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'abschließend'.",
+      "vi": "Tôi sử dụng từ 'abschließend'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "insbesondere",
-    "meaning": "tạm biệt"
+    "type": "other",
+    "meaning": "tạm biệt",
+    "forms": {},
+    "example": {
+      "de": "Ich benutze das Wort 'insbesondere'.",
+      "vi": "Tôi sử dụng từ 'insbesondere'."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "auffallen",
-    "meaning": "phát hiện"
+    "type": "verb",
+    "meaning": "phát hiện",
+    "forms": {},
+    "example": {
+      "de": "Ich auffallen jeden Tag.",
+      "vi": "Tôi auffallen mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "erhalten",
-    "meaning": "nhận được"
+    "type": "verb",
+    "meaning": "nhận được",
+    "forms": {},
+    "example": {
+      "de": "Ich erhalten jeden Tag.",
+      "vi": "Tôi erhalten mỗi ngày."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Hauptrolle, -n",
-    "meaning": "vai chính"
+    "type": "noun",
+    "meaning": "vai chính",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Hauptrolle, -n.",
+      "vi": "Đây là Hauptrolle, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "der Wanderer, -",
-    "meaning": "người du hành"
+    "type": "noun",
+    "meaning": "người du hành",
+    "forms": {},
+    "example": {
+      "de": "Das ist der Wanderer, -.",
+      "vi": "Đây là Wanderer, -."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Wanderin, -nen",
-    "meaning": "người du hành nữ"
+    "type": "noun",
+    "meaning": "người du hành nữ",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Wanderin, -nen.",
+      "vi": "Đây là Wanderin, -nen."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Realität (Sg.)",
-    "meaning": "thực tế"
+    "type": "noun",
+    "meaning": "thực tế",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Realität (Sg.).",
+      "vi": "Đây là Realität (Sg.)."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "die Rückfrage, -n",
-    "meaning": "hỏi lại"
+    "type": "noun",
+    "meaning": "hỏi lại",
+    "forms": {},
+    "example": {
+      "de": "Das ist die Rückfrage, -n.",
+      "vi": "Đây là Rückfrage, -n."
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "unter anderem (u.a)",
-    "meaning": "bao gồm, trong số"
+    "type": "phrase",
+    "meaning": "bao gồm, trong số",
+    "forms": {},
+    "example": {
+      "de": "unter anderem (u.a)!",
+      "vi": "unter anderem (u.a)!"
+    },
+    "level": "A2.2"
   },
   {
     "lektion": "Lektion 12",
     "word": "wie immer",
-    "meaning": "như mọi khi"
+    "type": "phrase",
+    "meaning": "như mọi khi",
+    "forms": {},
+    "example": {
+      "de": "wie immer!",
+      "vi": "wie immer!"
+    },
+    "level": "A2.2"
   }
 ]

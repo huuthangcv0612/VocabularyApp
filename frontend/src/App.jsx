@@ -1,4 +1,5 @@
 import { useState } from "react";
+import Home from "./components/Home";
 import LevelScreen from "./components/LevelScreen";
 import LektionScreen from "./components/LektionScreen";
 import Dashboard from "./components/Dashboard";
@@ -10,7 +11,8 @@ import "./style/App.css";
 
 function App() {
   const { level, setLevel, lektion, setLektion, words, setWords } = useApp();
-  const [view, setView] = useState("dashboard"); 
+  const [page, setPage] = useState("home");
+  const [view, setView] = useState("dashboard");
 
   // load JSON theo level
   const loadWords = async (selectedLevel) => {
@@ -40,12 +42,23 @@ function App() {
     setView("dashboard");
   };
 
-  if (!level) {
-    return <LevelScreen onSelect={handleSelectLevel} />;
+  if (page === "home") {
+    return <Home onStart={() => setPage("level")} />;
+  }
+
+  if (page === "level" || !level) {
+    return (
+      <LevelScreen
+        onSelect={async (lv) => {
+          await handleSelectLevel(lv);
+          setPage("lektion");
+        }}
+      />
+    );
   }
 
   if (!lektion) {
-    return <LektionScreen words={words} onSelect={handleSelectLektion} onBack={() => setLevel(null)} />;
+    return <LektionScreen words={words} onSelect={handleSelectLektion} onBack={() => setPage("level")} />;
   }
 
   const filteredWords = words.filter(w => w.lektion === lektion);
