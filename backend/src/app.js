@@ -11,9 +11,9 @@ const app = express();
 
 // ==================== Middleware ====================
 
-// CORS configuration
+// CORS configuration - allow tất cả (cho dev/test)
 const corsOptions = {
-  origin: process.env.CORS_ORIGIN || 'http://localhost:5173',
+  origin: true,
   credentials: true,
 };
 
