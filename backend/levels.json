@@ -1,0 +1,27 @@
+[
+  {
+    "level_name": "A1.1",
+    "description": "Cấp độ cơ bản 1.1",
+    "order": 1
+  },
+  {
+    "level_name": "A1.2",
+    "description": "Cấp độ cơ bản 1.2",
+    "order": 2
+  },
+  {
+    "level_name": "A2.1",
+    "description": "Cấp độ trung cấp 2.1",
+    "order": 3
+  },
+  {
+    "level_name": "A2.2",
+    "description": "Cấp độ trung cấp 2.2",
+    "order": 4
+  },
+  {
+    "level_name": "B1",
+    "description": "Cấp độ trung cấp B1",
+    "order": 5
+  }
+]
