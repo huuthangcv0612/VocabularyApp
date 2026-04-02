@@ -1,10 +1,10 @@
 import { useState } from "react";
-import Home from "./components/Home";
-import LevelScreen from "./components/LevelScreen";
-import LektionScreen from "./components/LektionScreen";
-import Dashboard from "./components/Dashboard";
-import Review from "./components/Review";
-import Quiz from "./components/Quiz";
+import Home from "./pages/Home";
+import LevelScreen from "./pages/LevelScreen";
+import LektionScreen from "./pages/LektionScreen";
+import Dashboard from "./pages/Dashboard";
+import Review from "./pages/Review";
+import Quiz from "./pages/Quiz";
 import Wheel from "./components/Wheel";
 import { useApp } from "./hooks/useApp";
 import "./style/App.css";
